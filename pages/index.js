@@ -8,7 +8,6 @@ export default function Home() {
         <title>Masterproef BETA App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      Home
     </div>
   );
 }
