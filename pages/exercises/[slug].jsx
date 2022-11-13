@@ -59,7 +59,7 @@ export default function ExerciseDetails() {
       </div>
       <div className="w-5/6 mx-auto grid lg:grid-cols-2 gap-5 xl:grid-cols-3">
         {displayImages.map((di, id) => (
-          <div>
+          <div key={id}>
             <h3 className="text-lg font-roboto text-uz-grey">Foto {id + 1}</h3>
             <img src={di}></img>
           </div>
