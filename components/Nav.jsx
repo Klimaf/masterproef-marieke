@@ -9,13 +9,16 @@ export default function Nav() {
             <Link href={"/"}>Home</Link>
           </li>
           <li>
-            <Link href={""}>Voor De Kinesitherapeut</Link>
+            <Link href={""}>Voor de kinesitherapeut</Link>
           </li>
           <li>
-            <Link href={""}>Voor De Patient</Link>
+            <Link href={""}>Voor de patient</Link>
           </li>
           <li>
-            <Link href={"/exercises"}>Handleiding & Videobibliotheek</Link>
+            <Link href={""}>Handleiding</Link>
+          </li>
+          <li>
+            <Link href={"/exercises"}>Videobibliotheek</Link>
           </li>
           <li>
             <Link href={""}>Hydrotherapie</Link>

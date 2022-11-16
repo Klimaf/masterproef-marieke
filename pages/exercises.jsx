@@ -17,7 +17,7 @@ export default function Exercieses() {
 
   const exercises = data.exercises.data;
 
-  //SORT BY EXERCISE NUMBER
+  // SORT BY EXERCISE NUMBER
   exercises.sort(
     (a, b) =>
       a.attributes.title.split(":")[0].split("Oefening ")[1] -
@@ -51,6 +51,8 @@ export default function Exercieses() {
 
   //PRIME FILTER
   let filtered = exercises;
+
+  console.log(exercises);
 
   //APPLY FILTER
   if (!filter.length == 0) {
