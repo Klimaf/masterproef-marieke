@@ -1,6 +1,7 @@
 import "../styles/globals.css";
 import { Provider, createClient } from "urql";
 import Nav from "../components/Nav";
+import Footer from "../components/Footer";
 import { Ubuntu, Roboto } from "@next/font/google";
 
 const client = createClient({ url: process.env.NEXT_PUBLIC_BACKEND_API });
@@ -19,9 +20,10 @@ function MyApp({ Component, pageProps }) {
   return (
     <main className={(ubuntu.variable, roboto.variable)}>
       <Provider value={client}>
-        <Nav></Nav>
+        <Nav />
         <Component {...pageProps} />
       </Provider>
+      <Footer />
     </main>
   );
 }
