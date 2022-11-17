@@ -52,7 +52,7 @@ export default function Exercieses() {
   //PRIME FILTER
   let filtered = exercises;
 
-  console.log(exercises);
+  // console.log(exercises);
 
   //APPLY FILTER
   if (!filter.length == 0) {
