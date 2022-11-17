@@ -71,7 +71,7 @@ export default function ExerciseDetails() {
         {displayImages.map((di, id) => (
           <div key={id}>
             <h3 className="text-lg font-roboto text-uz-grey">Foto {id + 1}</h3>
-            <img src={di}></img>
+            <img src={di} className=""></img>
           </div>
         ))}
       </div>
