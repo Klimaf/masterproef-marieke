@@ -26,7 +26,7 @@ export default function Exercieses() {
     );
 
   const exercises = data.exercises.data;
-  console.log(exercises);
+  // console.log(exercises);
   // SORT BY EXERCISE NUMBER
   exercises.sort(
     (a, b) =>
@@ -62,7 +62,7 @@ export default function Exercieses() {
   //PRIME FILTER
   let filtered = exercises;
 
-  console.log(exercises);
+  // console.log(exercises);
 
   //APPLY FILTER
   if (!filter.length == 0) {
