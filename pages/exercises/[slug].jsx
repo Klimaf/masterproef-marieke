@@ -13,8 +13,18 @@ export default function ExerciseDetails() {
   const { data, fetching, error } = results;
 
   //CHECK DATA
-  if (fetching) return <p>Loading</p>;
-  if (error) return <p>Error: {error.message}</p>;
+  if (fetching)
+    return (
+      <p className="mx-auto w-5/6 pt-5 mb-3 text-2xl font-roboto text-uz-grey">
+        Loading
+      </p>
+    );
+  if (error)
+    return (
+      <p className="mx-auto w-5/6 pt-5 mb-3 text-2xl font-roboto text-uz-grey">
+        Error: {error.message}
+      </p>
+    );
 
   const { title, urlVideo, instruction, tags, images } =
     data.exercises.data[0].attributes;
