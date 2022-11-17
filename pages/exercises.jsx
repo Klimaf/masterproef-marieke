@@ -16,7 +16,7 @@ export default function Exercieses() {
   if (error) return <p>Error: {error.message}</p>;
 
   const exercises = data.exercises.data;
-
+  console.log(exercises);
   // SORT BY EXERCISE NUMBER
   exercises.sort(
     (a, b) =>
@@ -52,7 +52,7 @@ export default function Exercieses() {
   //PRIME FILTER
   let filtered = exercises;
 
-  // console.log(exercises);
+  console.log(exercises);
 
   //APPLY FILTER
   if (!filter.length == 0) {
@@ -104,7 +104,7 @@ export default function Exercieses() {
       </section>
       <section className="mx-auto w-5/6">
         <h1 className=" pt-5 mb-3 text-2xl font-roboto text-uz-grey">
-          Oefeningen
+          Oefeningen <span className="text-gray-400">({filtered.length})</span>
         </h1>
         <div className="flex flex-col gap-1">
           {filtered.map((exercise) => (
