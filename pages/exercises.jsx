@@ -93,7 +93,7 @@ export default function Exercieses() {
       <section className="mx-auto w-5/6">
         <h1 className="pt-5 mb-3 text-2xl font-roboto text-uz-grey">Filter</h1>
         {filterTags.map((options) => (
-          <ul className="flex" key={options}>
+          <ul className="flex flex-wrap" key={options}>
             {options.map((option) => (
               <div
                 className={`m-1 py-1 px-3 font-semibold cursor-pointer font-ubuntu border-uz-blue border-2 
