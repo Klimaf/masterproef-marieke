@@ -12,7 +12,7 @@ export default function Nav() {
             <Link href={""}>Voor de kinesitherapeut</Link>
           </li>
           <li className="m-3 lg:my-0">
-            <Link href={""}>Voor de patient</Link>
+            <Link href={""}>Voor de patiënt</Link>
           </li>
           <li className="m-3 lg:my-0">
             <Link href={""}>Handleiding</Link>
@@ -21,7 +21,7 @@ export default function Nav() {
             <Link href={"/exercises"}>Videobibliotheek</Link>
           </li>
           <li className="m-3 lg:my-0">
-            <Link href={""}>Hydrotherapie</Link>
+            <Link href={"/hydrotherapie"}>Hydrotherapie</Link>
           </li>
         </ul>
       </div>

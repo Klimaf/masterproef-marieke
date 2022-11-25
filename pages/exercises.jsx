@@ -60,8 +60,9 @@ export default function Exercieses() {
   filterTags[0] = filterTags_template[0];
 
   //PRIME FILTER
-  let filtered = exercises;
-
+  let filtered = exercises.filter(
+    (ex) => !ex.attributes.tagArray.includes("hydrotherapie")
+  );
   // console.log(exercises);
 
   //APPLY FILTER

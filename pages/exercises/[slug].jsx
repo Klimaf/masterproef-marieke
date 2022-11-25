@@ -38,7 +38,14 @@ export default function ExerciseDetails() {
   let displayImages = [];
   images.data.map(
     (img) =>
-      (displayImages = [...displayImages, img.attributes.formats.large.url])
+      (displayImages = [
+        ...displayImages,
+        "large" in img.attributes.formats
+          ? img.attributes.formats.large.url
+          : "medium" in img.attributes.formats
+          ? img.attributes.formats.medium.url
+          : img.attributes.formats.small.url,
+      ])
   );
 
   return (
@@ -46,14 +53,17 @@ export default function ExerciseDetails() {
       <div className="w-5/6 mx-auto">
         <h2 className="text-2xl mb-5 font-roboto text-uz-grey">{title}</h2>
         <div className="mb-5 flex flex-wrap gap-2">
-          {tagArray.map((tag) => (
-            <div
-              className="bg-uz-blue py-1 px-3 whitespace-nowrap text-white font-ubuntu"
-              key={tag}
-            >
-              {tag}
-            </div>
-          ))}
+          {tagArray.map(
+            (tag) =>
+              tag && (
+                <div
+                  className="bg-uz-blue m-1 py-1 px-3 text-white font-ubuntu"
+                  key={tag}
+                >
+                  {tag}
+                </div>
+              )
+          )}
         </div>
         <div className="lg:grid lg:grid-cols-2 lg:gap-5">
           <iframe
