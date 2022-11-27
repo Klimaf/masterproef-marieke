@@ -44,7 +44,10 @@ export default function ExerciseDetails() {
           ? img.attributes.formats.large.url
           : "medium" in img.attributes.formats
           ? img.attributes.formats.medium.url
-          : img.attributes.formats.small.url,
+          : "small" in img.attributes.formats
+          ? img.attributes.formats.small.url
+          : img.attributes.formats.thumbnail.url,
+        ,
       ])
   );
 
