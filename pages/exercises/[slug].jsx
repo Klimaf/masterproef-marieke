@@ -51,6 +51,8 @@ export default function ExerciseDetails() {
       ])
   );
 
+  displayImages = displayImages.filter((e) => e !== undefined);
+
   return (
     <section className="pt-5">
       <div className="w-5/6 mx-auto">
