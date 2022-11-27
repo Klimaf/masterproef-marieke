@@ -1,11 +1,11 @@
 import Head from "next/head";
 import { useQuery } from "urql";
-import { GET_HOME } from "../lib/query";
+import { GET_VDP } from "../lib/query";
 
 export default function Home() {
   //FETCH DATA
   const [results] = useQuery({
-    query: GET_HOME,
+    query: GET_VDP,
   });
 
   const { data, fetching, error } = results;
@@ -23,8 +23,7 @@ export default function Home() {
         Error: {error.message}
       </p>
     );
-
-  const text = data.home.data.attributes.text;
+  const text = data.voorDePatient.data.attributes.text;
 
   const formatted = text.split(/\r?\n/).map((l) => {
     let form = <p className="mb-3 text-uz-grey">{l}</p>;
