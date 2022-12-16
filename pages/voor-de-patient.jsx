@@ -41,7 +41,7 @@ export default function Home() {
           Uw chirurg kan tijdens de operatie een ingroeiprothese of een
           gecementeerde prothese plaatsen. Tijdens het plaatsen van een
           <strong>
-            <u>ingroeiprothese</u>
+            <u> ingroeiprothese</u>
           </strong>{" "}
           wordt de trochanter major, een stukje bot van het bovenbeen,
           losgemaakt en terug vastgehecht. Op de trochanter major bevinden zich
