@@ -84,7 +84,7 @@ export default function Home() {
             <u>Postoperatief</u>
           </strong>{" "}
           zal u de eerste 6 weken een abductiebrace dragen om heupabucties te
-          vermijden. U mag zoals eerder vermeld, 6 weken niet steunen op het
+          vermijden. U mag, zoals eerder vermeld, 6 weken niet steunen op het
           geopereerde been. In het ziekenhuis zal de kinesitherapie bestaan uit
           algemene activerende oefeningen, circulatoire en pijndempende
           oefeningen en enkele krachtoefeningen van de niet-aangedane ledematen
