@@ -258,8 +258,8 @@ export default function Home() {
         </p>
 
         <div className="flex items-center gap-5">
-          <Image src={VDP3} className="w-[20rem]" />
           <Image src={VDP4} className="w-[20rem]" />
+          <Image src={VDP3} className="w-[20rem]" />
         </div>
 
         <h2 class="mb-3 text-xl font-roboto text-uz-grey">Lenigheid</h2>
