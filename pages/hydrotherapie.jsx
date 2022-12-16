@@ -2,6 +2,7 @@ import { useQuery } from "urql";
 import { EXERCISE_QUERY } from "../lib/query";
 import Exercise from "../components/Exercise";
 import { useState } from "react";
+import Head from "next/head";
 
 export default function Exercieses() {
   //FILTER STATE
@@ -51,6 +52,10 @@ export default function Exercieses() {
 
   return (
     <>
+      <Head>
+        <title>Hydrotherapie</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
       <section className="mx-auto w-5/6">
         <h1 className=" pt-5 mb-3 text-2xl font-roboto text-uz-grey">
           Oefeningen <span className="text-gray-400">({filtered.length})</span>
