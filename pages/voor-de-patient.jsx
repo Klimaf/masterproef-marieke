@@ -39,9 +39,9 @@ export default function Home() {
 
         <p class="mb-3 text-uz-grey">
           Uw chirurg kan tijdens de operatie een ingroeiprothese of een
-          gecementeerde prothese plaatsen. Tijdens het plaatsen van een
+          gecementeerde prothese plaatsen. Tijdens het plaatsen van een{" "}
           <strong>
-            <u> ingroeiprothese</u>
+            <u>ingroeiprothese</u>
           </strong>{" "}
           wordt de trochanter major, een stukje bot van het bovenbeen,
           losgemaakt en terug vastgehecht. Op de trochanter major bevinden zich
@@ -58,7 +58,7 @@ export default function Home() {
           plaats. Vanaf de stop van deze adjuvante therapie wacht men nog
           gemiddeld 6 weken en bekijkt men op medische beeldvorming of er
           voldoende ingroei van de prothese heeft plaatsgevonden. Het
-          revalidatieproces zal bij bij adjuvante therapie dus trager verlopen.
+          revalidatieproces zal bij adjuvante therapie dus trager verlopen.
         </p>
 
         <div className="flex items-center gap-5">
@@ -123,21 +123,21 @@ export default function Home() {
           <ul className="list-disc px-5">
             <li>
               U mag uw heup niet meer dan 90° plooien. Dit houdt in dat u niets
-              van de grond mag oprapen door te hurken. De kinesist zal u andere
-              strategieën aanleren om een voorwerp van de grond op te rapen
-              zonder te moeten hurken. Daarnaast zal u ook niet zomaar uw kousen
-              en schoenen mogen aandoen. Hiervoor zal u gebruik moeten maken van
-              hulpmiddelen zoals een schoenlepel. Tot slot mag u ook niet in een
-              diepe zetel of stoel zitten. U kan kussens gebruiken om een zetel
-              of stoel op te hogen en een toiletverhoger om op het toilet te
-              kunnen zitten zonder diepe heupbuiging.
+              van de grond mag oprapen door te hurken. De kinesitherapeut zal u
+              andere strategieën aanleren om een voorwerp van de grond op te
+              rapen zonder te moeten hurken. Daarnaast zal u ook niet zomaar uw
+              kousen en schoenen mogen aandoen. Hiervoor zal u gebruik moeten
+              maken van hulpmiddelen zoals een schoenlepel. Tot slot mag u ook
+              niet in een diepe zetel of stoel zitten. U kan kussens gebruiken
+              om een zetel of stoel op te hogen en een toiletverhoger om op het
+              toilet te kunnen zitten zonder diepe heupbuiging.
             </li>
             <li>
               U mag geen straight leg raise uitvoeren. Dit betekent dat u in lig
               het been niet gestrekt mag opheffen.
             </li>
             <Image src={VDP1} className="w-[20rem]" />
-            <li>U mag het been niet naar binnen of buiten roteren.</li>
+            <li>U mag het been niet naar binnen of buiten draaien.</li>
             <li>
               U mag niet met de benen gekruist zitten. Het been mag de
               middenlijn niet overkruisen. Indien u op uw zij slaapt, legt u
@@ -156,7 +156,7 @@ export default function Home() {
           zal u later in uw revalidatieproces behandelen. Thuisoefeningen zullen
           hierbij van pas komen. Hierbij kan deze videobibliotheek een handig
           hulpmiddel zijn. Het is belangrijk om tijdens het oefenen met uw
-          kinesitherapeut aan te geven wanneer u pijn heeft. Als u pijn ervaart
+          kinesitherapeut aan te geven wanneer u pijn heeft. Als u pijn ervaart,
           stopt u met de oefeningen.{" "}
         </p>
 
@@ -169,7 +169,7 @@ export default function Home() {
           fietsen, zwemmen, golfen en fietsen op een hometrainer. Het hernemen
           van sportbeoefening moet geleidelijk aan gebeuren en steeds in overleg
           met uw behandelende arts. Het risico op vallen moet beperkt worden
-          tijdens het sporten, aangezien dit een risico geeft op luxatie.
+          tijdens het sporten, aangezien dit een risico geeft op ontwrichting.
           Sporten die herhaalde schokken veroorzaken, zoals lange afstandslopen
           alsook contactsporten worden niet aanbevolen. Het is belangrijk om te
           blijven bewegen en een activiteit te vinden die u fit en gezond houdt.
@@ -186,12 +186,11 @@ export default function Home() {
           kunnen enkele eenvoudige oefeningen uitgevoerd worden om het lichaam
           terug in beweging te brengen. Op deze manier kunnen afvalstoffen
           afgevoerd worden en kunnen voedingsstoffen en zuurstof naar onze
-          weefsels gebracht worden. Bewegen kan ook de pijn controleren en
-          zwelling tegengaan en verminderen. Naast deze fysieke voordelen is het
-          ook voor de mentale gezondheid belangrijk om in beweging te blijven.
-          Deze oefeningen mogen meerdere keren per dag uitgevoerd worden. Het is
-          belangrijk dat u hierbij geen pijn ervaart en dat u de bewegingen
-          traag uitvoert.{" "}
+          weefsels gebracht worden. Bewegen kan ook de pijn en zwelling
+          verminderen. Naast deze fysieke voordelen is het ook voor de mentale
+          gezondheid belangrijk om in beweging te blijven. Deze oefeningen mogen
+          meerdere keren per dag uitgevoerd worden. Het is belangrijk dat u
+          hierbij geen pijn ervaart en dat u de bewegingen traag uitvoert.{" "}
         </p>
 
         <h2 class="mb-3 text-xl font-roboto text-uz-grey">Mobiliteit</h2>
@@ -277,8 +276,8 @@ export default function Home() {
         <p class="mb-3 text-uz-grey">
           Indien u evenwichtstraining thuis wil uitvoeren, is het belangrijk dat
           u dit veilig doet. Zorg ervoor dat u zich altijd kan vastnemen aan een
-          leuning/tafel indien u toch het evenwicht zou verliezen. Vraag hulp of
-          supervisie van een derde indien nodig. Draag stevige, gesloten
+          leuning of tafel indien u toch het evenwicht zou verliezen. Vraag hulp
+          of supervisie van een derde indien nodig. Draag stevige, gesloten
           schoenen of antislipsokken. Doe deze oefeningen alleen als uw
           kinesitherapeut of arts u de toestemming geeft.{" "}
         </p>
@@ -286,7 +285,7 @@ export default function Home() {
         <p class="mb-3 text-uz-grey">
           U kan evenwichtstraining gemakkelijk in het dagelijks leven uitvoeren.
           Ga bijvoorbeeld eens stappen op het gras of op kasseien indien u dit
-          reeds geoefend hebt in therapie. U kan bijvoorbeeld tijdens het koken
+          reeds geoefend heeft in therapie. U kan bijvoorbeeld tijdens het koken
           een semi-tandemstand aannemen, waarbij u zich kan vasthouden aan het
           aanrecht indien u het evenwicht zou verliezen.{" "}
         </p>

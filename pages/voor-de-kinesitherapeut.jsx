@@ -57,7 +57,7 @@ export default function Home() {
           wanneer het toegestaan is om te steunen. Indien de patiënt
           chemotherapie of radiotherapie krijgt, wordt ingroei van de prothese
           belemmerd. In deze periode mag de patiënt niet steunen. Van zodra
-          chemo- en radiotherapie gestopt zijn, vindt ingroei plaats. Vanaf de
+          chemo- en radiotherapie beëindigd zijn, vindt ingroei plaats. Vanaf de
           stop van adjuvante therapie wacht men nog gemiddeld 6 weken en bekijkt
           men op medische beeldvorming of er voldoende ingroei van de prothese
           heeft plaatsgevonden. Het revalidatieproces zal bij patiënten die
@@ -73,7 +73,7 @@ export default function Home() {
           abductoreninserties tijd te geven om terug vast te groeien. Omwille
           van dezelfde reden is steunen ook niet toegestaan in de eerste 6
           weken. Bij deze patiënten zal de revalidatie, net zoals bij de
-          ingroeiprothese, vertraagt verlopen wanneer ze adjuvante therapie
+          ingroeiprothese, vertraagd verlopen wanneer ze adjuvante therapie
           krijgen.
         </p>
         <p className="mb-3 text-uz-grey">
@@ -104,7 +104,7 @@ export default function Home() {
           revalidatie aangezien dit goede resultaten geeft.
         </p>
         <p className="mb-3 text-uz-grey">
-          Eenmaal goedkeuring is gegeven door de chirurg om te steunen, kan de
+          Eenmaal goedkeuring is gegeven door de chirurg om te steunen, kan de{" "}
           <strong>
             <u>steunname</u>
           </strong>{" "}
@@ -116,9 +116,9 @@ export default function Home() {
           <strong>
             <u>Mobilisaties</u>
           </strong>{" "}
-          worden steeds uitgevoerd op pijn geleide van de patiënt. Het is uit
-          den boze om door te mobiliseren. Dit kan ervoor zorgen dat de prothese
-          luxeert. Zachte en voorzichtige mobilisatie zijn geschikt voor deze
+          worden steeds uitgevoerd op pijngeleide van de patiënt. Het is uit den
+          boze om door te mobiliseren. Dit kan ervoor zorgen dat de prothese
+          luxeert. Zachte en voorzichtige mobilisaties zijn geschikt voor deze
           patiëntenpopulatie, na goedkeuring van de chirurg.
         </p>
         <p className="mb-3 text-uz-grey">
@@ -249,7 +249,7 @@ export default function Home() {
                     steunname na goedkeuring chirurg
                   </li>
                   <li>
-                    <u>Geen</u> onmiddellijke <u>volledige belasting</u>
+                    mintens 6 weken <u>niet steunen en geen abducties</u>
                   </li>
                   <li>
                     <u>Adjuvante therapie</u> zoals radio- en chemotherapie{" "}
@@ -282,7 +282,6 @@ export default function Home() {
           Onmiddellijk postoperatief kan u de patiënt activeren met enkele
           eenvoudige oefeningen. Deze oefeningen zijn low load en mogen meerdere
           keren per dag uitgevoerd worden. Er mag geen pijn uitgelokt worden.
-          Bouw het aantal herhalingen gradueel op.
         </p>
         <h2 className="mb-3 text-xl font-roboto text-uz-grey">Mobiliteit</h2>
         <p className="mb-3 text-uz-grey">
@@ -367,9 +366,9 @@ export default function Home() {
         </p>
         <p className="mb-3 text-uz-grey">
           Om de oefeningen zwaarder te maken, kunnen manchetten en therabanden
-          gebruikt worden. Bij iedere video is een foto toegevoegd die indiceert
-          hoe de patiënt een manchet of theraband kan gebruiken en waar deze
-          dient te bevestigd worden.
+          gebruikt worden. Bij iedere video is een foto toegevoegd die tonen hoe
+          de patiënt een manchet of theraband kan gebruiken en waar deze dient
+          te bevestigd worden.
         </p>
         <h2 className="mb-3 text-xl font-roboto text-uz-grey">Lenigheid</h2>
         <p className="mb-3 text-uz-grey">
@@ -390,7 +389,7 @@ export default function Home() {
           en de individuele eigenschappen van uw patiënt. Postoperatief
           stretchen kan contra-geïndiceerd zijn en mag enkel na toestemming van
           de behandelende arts. U kan ook de principes van CR (contract-relax)
-          en CRAC (contract-relax-antagonist-contract) gebruiken om een diepere
+          en CRAC (contract-relax-antagonist-contract) gebruiken om een grotere
           stretch te bekomen.
         </p>
         <h2 className="mb-3 text-xl font-roboto text-uz-grey">Evenwicht</h2>
@@ -399,8 +398,8 @@ export default function Home() {
           evenwichtstraining in het thuisprogramma. Probeer het valrisico van de
           patiënt correct in te schatten. Wijs de patiënt erop dat hij de
           oefeningen veilig uitvoert. Dit wil zeggen dat hij steeds een
-          steunpunt in de buurt heeft of een derde vraagt voor supervisie. Ook
-          dient gewezen te worden op het belang van het juiste schoeisel en
+          steunpunt in de buurt heeft of een andere persoon laat superviseren.
+          Ook dient gewezen te worden op het belang van het juiste schoeisel en
           eventuele antislipsokken. Volgende progressies en regressies kunnen
           gemaakt worden:
         </p>

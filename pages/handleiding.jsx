@@ -47,7 +47,7 @@ export default function Home() {
           <strong>
             <u>“Hydrotherapie”</u>
           </strong>
-          .In wat volgt wordt meer uitleg gegeven over de opbouw en structuur
+          . In wat volgt wordt meer uitleg gegeven over de opbouw en structuur
           van deze videobibliotheek.{" "}
         </p>
         <p class="mb-3 text-uz-grey">
@@ -66,8 +66,8 @@ export default function Home() {
         </p>
         <p class="mb-3 text-uz-grey">
           Zoals vermeld is er voor elke soort oefening een richtlijn. Het is van
-          belang zijn deze door te nemen alvorens de oefeningen mee te geven aan
-          uw patiënt/uit te voeren.{" "}
+          belang deze door te nemen alvorens de oefeningen mee te geven aan uw
+          patiënt.{" "}
         </p>
         <p class="mb-3 text-uz-grey">
           De oefeningen zijn, naargelang de fase van het revalidatieproces, in
@@ -86,7 +86,7 @@ export default function Home() {
           </strong>{" "}
           wordt de focus gelegd op functionele activiteiten. De patiënt leert
           hoe hij functionele activiteiten kan uitvoeren met de beperkingen die
-          hij postoperatief zal hebben. In de
+          hij postoperatief zal hebben. In de{" "}
           <strong>
             <u>direct postoperatieve fase</u>
           </strong>{" "}
@@ -117,7 +117,7 @@ export default function Home() {
         <p class="mb-3 text-uz-grey">
           Hieronder vindt u een overzicht van de opbouw van de videobibliotheek.{" "}
         </p>
-        <Image src={HL1} className="mb-3" />
+        <Image src={HL1} className="mb-3 w-[75rem]" />
 
         <p class="mb-3 text-uz-grey">
           In de videobibliotheek staat naast elke video uitgelegd hoe de
@@ -138,7 +138,7 @@ export default function Home() {
           de patiënt mag uitvoeren. De therapeut schrijft per oefening de
           modaliteiten op. Voor de patiënt is er een balk aanwezig met de
           weekdagen zodat per oefening kan aangeduid worden wanneer de patiënt
-          ze heeft uitgevoerd. Bij het uitvoeren van de oefeningen heeft de
+          deze heeft uitgevoerd. Bij het uitvoeren van de oefeningen heeft de
           patiënt de mogelijkheid om bijkomende opmerkingen en moeilijkheden te
           noteren, die bij het volgende consult zullen besproken worden.{" "}
         </p>
@@ -169,14 +169,14 @@ export default function Home() {
           href="/assets/Oefeningen-genummerd-volgens-doelstelling.docx"
           download="Oefeningen-genummerd-volgens-doelstelling"
         >
-          Oefeninglijst Word
+          Overzicht Word
         </a>
         <a
           className="m-1 py-1 px-3 font-semibold cursor-pointer font-ubuntu border-red-700 border-2 text-red-700 hover:bg-red-700 hover:text-white"
           href="/assets/Oefeningen-genummerd-volgens-doelstelling.pdf"
           download="Oefeningen-genummerd-volgens-doelstelling"
         >
-          Oefeninglijst PDF
+          Overzicht PDF
         </a>
       </div>
     </div>

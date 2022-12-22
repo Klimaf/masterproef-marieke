@@ -9,15 +9,15 @@ export default function Nav() {
             <Link href={"/"}>Home</Link>
           </li>
           <li className="m-3 lg:my-0">
+            <Link href={"/handleiding"}>Handleiding</Link>
+          </li>
+          <li className="m-3 lg:my-0">
             <Link href={"/voor-de-kinesitherapeut"}>
               Voor de kinesitherapeut
             </Link>
           </li>
           <li className="m-3 lg:my-0">
             <Link href={"/voor-de-patient"}>Voor de patiënt</Link>
-          </li>
-          <li className="m-3 lg:my-0">
-            <Link href={"/handleiding"}>Handleiding</Link>
           </li>
           <li className="m-3 lg:my-0">
             <Link href={"/exercises"}>Videobibliotheek</Link>

@@ -17,9 +17,9 @@ export default function Home() {
         <p className="mb-3 text-uz-grey">
           Deze website is gemaakt in kader van een thesis van de opleiding
           Revalidatiewetenschappen en kinesitherapie aan de Universiteit Gent
-          door 3 masterstudenten onder begeleiding van Prof. Dr. Gwen Sys.
+          door drie masterstudenten onder begeleiding van Prof. Dr. Gwen Sys.
         </p>
-        <h2 className="mb-3 text-xl font-roboto text-uz-grey">Voor wie</h2>
+        <h2 className="mb-3 text-xl font-roboto text-uz-grey">Voor wie?</h2>
         <p className="mb-3 text-uz-grey">
           De website is bedoeld voor zowel patiënten die revalideren van een
           reconstructieprothese van de proximale femur, als voor hun
@@ -27,7 +27,7 @@ export default function Home() {
           ook meegegeven worden aan de patiënt door de behandelende arts.
         </p>
         <h2 className="mb-3 text-xl font-roboto text-uz-grey">
-          Wat kan u op deze website vinden
+          Wat kan u op deze website vinden?
         </h2>
         <p className="mb-3 text-uz-grey">
           Op deze website kan u richtlijnen vinden voor de revalidatie na een
