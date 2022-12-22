@@ -53,6 +53,9 @@ export default function ExerciseDetails() {
 
   displayImages = displayImages.filter((e) => e !== undefined);
 
+  let displayInstructions = [];
+  displayInstructions = instruction.split(/\r?\n/);
+
   return (
     <section className="pt-5">
       <div className="w-5/6 mx-auto">
@@ -79,7 +82,11 @@ export default function ExerciseDetails() {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
-          <p className="mb-5 font-ubuntu text-lg">{instruction}</p>
+          <div>
+            {displayInstructions.map((inst) => (
+              <p className="mb-2 font-ubuntu text-lg"> {inst}</p>
+            ))}
+          </div>
         </div>
       </div>
       <div className="w-5/6 mx-auto grid lg:grid-cols-2 gap-5 xl:grid-cols-3">
