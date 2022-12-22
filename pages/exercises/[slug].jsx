@@ -84,7 +84,9 @@ export default function ExerciseDetails() {
           ></iframe>
           <div>
             {displayInstructions.map((inst) => (
-              <p className="mb-2 font-ubuntu text-lg"> {inst}</p>
+              <p className="mb-2 font-ubuntu text-lg" key={inst}>
+                {inst}
+              </p>
             ))}
           </div>
         </div>
