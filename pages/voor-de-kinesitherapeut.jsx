@@ -249,7 +249,7 @@ export default function Home() {
                     steunname na goedkeuring chirurg
                   </li>
                   <li>
-                    mintens 6 weken <u>niet steunen en geen abducties</u>
+                    minstens 6 weken <u>niet steunen en geen abducties</u>
                   </li>
                   <li>
                     <u>Adjuvante therapie</u> zoals radio- en chemotherapie{" "}
@@ -368,7 +368,7 @@ export default function Home() {
           Om de oefeningen zwaarder te maken, kunnen manchetten en therabanden
           gebruikt worden. Bij iedere video is een foto toegevoegd die tonen hoe
           de patiënt een manchet of theraband kan gebruiken en waar deze dient
-          te bevestigd worden.
+          bevestigd te worden.
         </p>
         <h2 className="mb-3 text-xl font-roboto text-uz-grey">Lenigheid</h2>
         <p className="mb-3 text-uz-grey">

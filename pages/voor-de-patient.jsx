@@ -115,7 +115,7 @@ export default function Home() {
         </p>
 
         <p class="mb-3 text-uz-grey">
-          Hieronder vindt u een aantal zaken dat u{" "}
+          Hieronder vindt u een aantal zaken die u{" "}
           <strong>
             <u>niet mag doen</u>
           </strong>{" "}
