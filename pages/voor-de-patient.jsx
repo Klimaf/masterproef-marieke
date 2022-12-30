@@ -16,15 +16,15 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="mx-auto w-5/6 mt-5 font-ubuntu text-lg">
-        <h1 class="mb-3 text-xl font-roboto text-uz-blue">
+        <h1 className="mb-3 text-xl font-roboto text-uz-blue">
           Algemene richtlijnen voor de patiënt{" "}
         </h1>
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           Tijdens de revalidatie van uw reconstructieprothese is het van belang
           om de aanbevelingen en richtlijnen nauwgezet op te volgen.{" "}
         </p>
 
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           <strong>
             <u>Preoperatief</u>
           </strong>{" "}
@@ -37,7 +37,7 @@ export default function Home() {
           aangewezen om uw conditie en algemene belastbaarheid op te bouwen.
         </p>
 
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           Uw chirurg kan tijdens de operatie een ingroeiprothese of een
           gecementeerde prothese plaatsen. Tijdens het plaatsen van een{" "}
           <strong>
@@ -62,11 +62,19 @@ export default function Home() {
         </p>
 
         <div className="flex items-center gap-5">
-          <Image src={VDP5} className="w-[20rem]" />
-          <Image src={VDP6} className="w-[20rem]" />
+          <Image
+            src={VDP5}
+            className="w-[20rem]"
+            alt="afbeelding van trochanter major met aanhechting van de abductoren"
+          />
+          <Image
+            src={VDP6}
+            className="w-[20rem]"
+            alt="afbeelding van zijwaartse beweging van het been, abductie genaamd"
+          />
         </div>
 
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           Indien u een{" "}
           <strong>
             <u>gecementeerde prothese</u>
@@ -79,7 +87,7 @@ export default function Home() {
           net zoals bij een ingroeiprothese, trager verlopen.{" "}
         </p>
 
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           <strong>
             <u>Postoperatief</u>
           </strong>{" "}
@@ -92,7 +100,7 @@ export default function Home() {
           rechtstaan zullen geoefend worden.{" "}
         </p>
 
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           Als uw wonde voldoende genezen is en als de chirurg goedkeuring geeft,
           kan{" "}
           <strong>
@@ -104,7 +112,7 @@ export default function Home() {
           revalidatiecentrum K7 gebruikt worden.{" "}
         </p>
 
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           Uw{" "}
           <strong>
             <u>steunname</u>
@@ -114,40 +122,48 @@ export default function Home() {
           Hulpmiddelen zoals een looprek en krukken zullen gebruikt worden.
         </p>
 
-        <p class="mb-3 text-uz-grey">
+        <p className="text-uz-grey">
           Hieronder vindt u een aantal zaken die u{" "}
           <strong>
             <u>niet mag doen</u>
           </strong>{" "}
           na de operatie:{" "}
-          <ul className="list-disc px-5">
-            <li>
-              U mag uw heup niet meer dan 90° plooien. Dit houdt in dat u niets
-              van de grond mag oprapen door te hurken. De kinesitherapeut zal u
-              andere strategieën aanleren om een voorwerp van de grond op te
-              rapen zonder te moeten hurken. Daarnaast zal u ook niet zomaar uw
-              kousen en schoenen mogen aandoen. Hiervoor zal u gebruik moeten
-              maken van hulpmiddelen zoals een schoenlepel. Tot slot mag u ook
-              niet in een diepe zetel of stoel zitten. U kan kussens gebruiken
-              om een zetel of stoel op te hogen en een toiletverhoger om op het
-              toilet te kunnen zitten zonder diepe heupbuiging.
-            </li>
-            <li>
-              U mag geen straight leg raise uitvoeren. Dit betekent dat u in lig
-              het been niet gestrekt mag opheffen.
-            </li>
-            <Image src={VDP1} className="w-[20rem]" />
-            <li>U mag het been niet naar binnen of buiten draaien.</li>
-            <li>
-              U mag niet met de benen gekruist zitten. Het been mag de
-              middenlijn niet overkruisen. Indien u op uw zij slaapt, legt u
-              best een kussen tussen de benen.
-            </li>
-            <Image src={VDP2} className="w-[20rem]" />
-          </ul>
         </p>
+        <ul className="list-disc px-5 mb-3 text-uz-grey">
+          <li>
+            U mag uw heup niet meer dan 90° plooien. Dit houdt in dat u niets
+            van de grond mag oprapen door te hurken. De kinesitherapeut zal u
+            andere strategieën aanleren om een voorwerp van de grond op te rapen
+            zonder te moeten hurken. Daarnaast zal u ook niet zomaar uw kousen
+            en schoenen mogen aandoen. Hiervoor zal u gebruik moeten maken van
+            hulpmiddelen zoals een schoenlepel. Tot slot mag u ook niet in een
+            diepe zetel of stoel zitten. U kan kussens gebruiken om een zetel of
+            stoel op te hogen en een toiletverhoger om op het toilet te kunnen
+            zitten zonder diepe heupbuiging.
+          </li>
+          <li>
+            U mag geen straight leg raise uitvoeren. Dit betekent dat u in lig
+            het been niet gestrekt mag opheffen.
+          </li>
+          <Image
+            src={VDP1}
+            className="w-[20rem]"
+            alt="afbeelding straight leg raise"
+          />
+          <li>U mag het been niet naar binnen of buiten draaien.</li>
+          <li>
+            U mag niet met de benen gekruist zitten. Het been mag de middenlijn
+            niet overkruisen. Indien u op uw zij slaapt, legt u best een kussen
+            tussen de benen.
+          </li>
+          <Image
+            src={VDP2}
+            className="w-[20rem]"
+            alt="afbeelding kussen tussen benen in slaappositie"
+          />
+        </ul>
 
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           De kinesitherapie wordt geleidelijk aan opgebouwd. Een{" "}
           <strong>
             {" "}
@@ -160,7 +176,7 @@ export default function Home() {
           stopt u met de oefeningen.{" "}
         </p>
 
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           <strong>
             <u>Sportactiviteiten</u>
           </strong>{" "}
@@ -175,13 +191,13 @@ export default function Home() {
           blijven bewegen en een activiteit te vinden die u fit en gezond houdt.
         </p>
 
-        <h1 class="mb-3 text-xl font-roboto text-uz-blue">
+        <h1 className="mb-3 text-xl font-roboto text-uz-blue">
           Specifieke richtlijnen voor de patiënt
         </h1>
-        <h2 class="mb-3 text-xl font-roboto text-uz-grey">
+        <h2 className="mb-3 text-xl font-roboto text-uz-grey">
           Pijndempende en circulatiebevorderende oefeningen
         </h2>
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           Bewegen is van cruciaal belang voor het lichaam. Direct postoperatief
           kunnen enkele eenvoudige oefeningen uitgevoerd worden om het lichaam
           terug in beweging te brengen. Op deze manier kunnen afvalstoffen
@@ -193,8 +209,8 @@ export default function Home() {
           hierbij geen pijn ervaart en dat u de bewegingen traag uitvoert.{" "}
         </p>
 
-        <h2 class="mb-3 text-xl font-roboto text-uz-grey">Mobiliteit</h2>
-        <p class="mb-3 text-uz-grey">
+        <h2 className="mb-3 text-xl font-roboto text-uz-grey">Mobiliteit</h2>
+        <p className="mb-3 text-uz-grey">
           Zowel pre- als postoperatief kan de mobiliteit in de heup, maar ook in
           andere gewrichten van het onderste lidmaat beperkt zijn.
           Mobiliteitsoefeningen helpen de beweeglijkheid terug te winnen. Bij
@@ -206,10 +222,10 @@ export default function Home() {
           kinesitherapeut.{" "}
         </p>
 
-        <h2 class="mb-3 text-xl font-roboto text-uz-grey">
+        <h2 className="mb-3 text-xl font-roboto text-uz-grey">
           Motorische controle
         </h2>
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           Motorische controle oefeningen zijn gericht op het verbeteren van een
           bewegingspatroon, het preciezer maken van een beweging en het
           vergroten van de efficiëntie van een beweging. Dit komt tot stand door
@@ -218,7 +234,7 @@ export default function Home() {
           kinesitherapeut geoefend worden.{" "}
         </p>
 
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           Op de website vindt u enerzijds oefeningen gericht op selectieve
           spierrekrutering van quadriceps, hamstrings en adductoren. Dit
           betekent dat u deze spieren selectief kunt aanspannen. Anderzijds is
@@ -228,8 +244,8 @@ export default function Home() {
           kinesitherapeut hoeveel keer u deze oefeningen dient uit te voeren.{" "}
         </p>
 
-        <h2 class="mb-3 text-xl font-roboto text-uz-grey">Spierkracht</h2>
-        <p class="mb-3 text-uz-grey">
+        <h2 className="mb-3 text-xl font-roboto text-uz-grey">Spierkracht</h2>
+        <p className="mb-3 text-uz-grey">
           Spierkrachtoefeningen zijn in elke fase van het revalidatieproces
           belangrijk. Preoperatief zorgen deze oefeningen ervoor dat uw spieren
           in een optimale conditie zijn voor de aanvang van de ingreep.
@@ -242,7 +258,7 @@ export default function Home() {
           oefeningen mag uitvoeren.{" "}
         </p>
 
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           De oefeningen kunnen steeds zwaarder gemaakt worden door een manchet
           of een theraband te gebruiken. Een manchet is een klein gewicht (0.5,
           1, 1.5 of 2 kg) dat u eenvoudig kan bevestigen rond uw enkel.
@@ -257,12 +273,12 @@ export default function Home() {
         </p>
 
         <div className="flex items-center gap-5">
-          <Image src={VDP4} className="w-[20rem]" />
-          <Image src={VDP3} className="w-[20rem]" />
+          <Image src={VDP4} className="w-[20rem]" alt="afbeelding manchet" />
+          <Image src={VDP3} className="w-[20rem]" alt="afbeelding theraband" />
         </div>
 
-        <h2 class="mb-3 text-xl font-roboto text-uz-grey">Lenigheid</h2>
-        <p class="mb-3 text-uz-grey">
+        <h2 className="mb-3 text-xl font-roboto text-uz-grey">Lenigheid</h2>
+        <p className="mb-3 text-uz-grey">
           Als er bepaalde spieren in de onderste ledematen verkort zijn, is het
           nuttig om deze spieren te stretchen. Dit zal voornamelijk preoperatief
           van toepassing zijn. Bij het uitvoeren van een stretch mag u een
@@ -272,8 +288,8 @@ export default function Home() {
           de stretch mag uitvoeren.
         </p>
 
-        <h2 class="mb-3 text-xl font-roboto text-uz-grey">Evenwicht</h2>
-        <p class="mb-3 text-uz-grey">
+        <h2 className="mb-3 text-xl font-roboto text-uz-grey">Evenwicht</h2>
+        <p className="mb-3 text-uz-grey">
           Indien u evenwichtstraining thuis wil uitvoeren, is het belangrijk dat
           u dit veilig doet. Zorg ervoor dat u zich altijd kan vastnemen aan een
           leuning of tafel indien u toch het evenwicht zou verliezen. Vraag hulp
@@ -282,7 +298,7 @@ export default function Home() {
           kinesitherapeut of arts u de toestemming geeft.{" "}
         </p>
 
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           U kan evenwichtstraining gemakkelijk in het dagelijks leven uitvoeren.
           Ga bijvoorbeeld eens stappen op het gras of op kasseien indien u dit
           reeds geoefend heeft in therapie. U kan bijvoorbeeld tijdens het koken
@@ -290,52 +306,51 @@ export default function Home() {
           aanrecht indien u het evenwicht zou verliezen.{" "}
         </p>
 
-        <Image src={VDP7} className="w-[30rem] mb-3" />
+        <Image
+          src={VDP7}
+          className="w-[30rem] mb-3"
+          alt="afbeelding voetposities"
+        />
 
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           U kan de oefeningen als volgt moeilijker of gemakkelijker maken:{" "}
         </p>
 
-        <p class="mb-3 text-uz-grey">
-          Moeilijker:
-          <ul className="list-disc px-5">
-            <li>Gebruik een instabiele ondergrond zoals een airexmatje</li>
-            <li>Gebruik een hellend steunvlak</li>
-            <li>
-              Voer een cognitieve (bijvoorbeeld tellen vanaf 100 naar 0 in
-              stappen van 7) of motorische (bijvoorbeeld met een bal in de
-              handen een cijfer 8 beweging maken) dubbeltaak uit
-            </li>
-            <li>Sluit de ogen</li>
-          </ul>
-        </p>
+        <p className="text-uz-grey">Moeilijker:</p>
+        <ul className="list-disc px-5 mb-3 text-uz-grey">
+          <li>Gebruik een instabiele ondergrond zoals een airexmatje</li>
+          <li>Gebruik een hellend steunvlak</li>
+          <li>
+            Voer een cognitieve (bijvoorbeeld tellen vanaf 100 naar 0 in stappen
+            van 7) of motorische (bijvoorbeeld met een bal in de handen een
+            cijfer 8 beweging maken) dubbeltaak uit
+          </li>
+          <li>Sluit de ogen</li>
+        </ul>
 
-        <p class="mb-3 text-uz-grey">
-          Gemakkelijker:{" "}
-          <ul className="list-disc px-5">
-            <li>
-              Gebruik een groter steunvlak door voeten verder uit elkaar te
-              zetten
-            </li>
-            <li>Gebruik een spiegel</li>
-            <li>Oefen op blote voeten</li>
-          </ul>
-        </p>
-        <p class="mb-3 text-uz-grey">
+        <p className="text-uz-grey">Gemakkelijker: </p>
+        <ul className="list-disc px-5 mb-3 text-uz-grey">
+          <li>
+            Gebruik een groter steunvlak door voeten verder uit elkaar te zetten
+          </li>
+          <li>Gebruik een spiegel</li>
+          <li>Oefen op blote voeten</li>
+        </ul>
+        <p className="mb-3 text-uz-grey">
           Er zijn enkele foto’s toegevoegd aan de video’s die tonen hoe u de
           oefeningen moeilijker kan maken.{" "}
         </p>
-        <h2 class="mb-3 text-xl font-roboto text-uz-grey">
+        <h2 className="mb-3 text-xl font-roboto text-uz-grey">
           Functionele oefeningen met inbegrip van gangrevalidatie
         </h2>
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           Functionele oefeningen zijn erop gericht om dagelijkse activiteiten
           terug te kunnen uitvoeren, waarbij rekening wordt gehouden met uw
           beperkingen. Het is belangrijk om deze preoperatief in te oefenen,
           zodat u deze postoperatief gemakkelijker kan uitvoeren. Er wordt een
           extra focus gelegd op oefeningen die uw gang zullen verbeteren.
         </p>
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           Postoperatief is het belangrijk dat u vraagt aan de kinesitherapeut
           welke functionele oefeningen u mag uitvoeren en wanneer u de
           oefeningen van gangrevalidatie mag starten. Indien u een volledig of
@@ -343,7 +358,7 @@ export default function Home() {
           om steeds het advies van de arts op te volgen betreffende het moment
           dat u geheel of gedeeltelijk mag steunen.{" "}
         </p>
-        <p class="mb-3 text-uz-grey">
+        <p className="mb-3 text-uz-grey">
           Stappen met plantair contact wil zeggen dat de voetzool van het
           geopereerde been contact maakt met de grond, zonder hierop te steunen.
           Beide handen zetten alle druk op de handvaten van het loophulpmiddel.

@@ -134,51 +134,51 @@ export default function Home() {
           load van de oefeningen wanneer patiënten radio- of chemotherapie
           krijgen.
         </p>
-        <p className="mb-3 text-uz-grey">
+        <p className="text-uz-grey">
           Hieronder vindt u een samenvatting van wat{" "}
           <strong>
             <u>geïndiceerd</u>
           </strong>{" "}
           is:
-          <ul className="list-disc px-5">
-            <li>LOW load, LAAG gedoseerd, VEEL herhalingen</li>
-            <li>EXTRA voorzichtigheid en geduld</li>
-          </ul>
         </p>
-        <p className="mb-3 text-uz-grey">
+        <ul className="list-disc px-5 mb-3 text-uz-grey">
+          <li>LOW load, LAAG gedoseerd, VEEL herhalingen</li>
+          <li>EXTRA voorzichtigheid en geduld</li>
+        </ul>
+        <p className="text-uz-grey">
           De{" "}
           <strong>
             <u>contra-indicaties</u>
           </strong>{" "}
           van een klassieke heupprothese zijn ook van toepassing bij een
           reconstructieprothese:
-          <ul className="list-disc px-5">
-            <li>GEEN straight leg raise</li>
-            <li>GEEN diepe heupflexie</li>
-            <li>GEEN heuprotaties</li>
-            <li>GEEN heupadductie</li>
-            <li>GEEN posturen</li>
-            <li>GEEN massage uitvoeren op de plaats van de prothese</li>
-            <li>GEEN littekenmassage</li>
-          </ul>
         </p>
-        <p className="mb-3 text-uz-grey">
+        <ul className="list-disc px-5 mb-3 text-uz-grey">
+          <li>GEEN straight leg raise</li>
+          <li>GEEN diepe heupflexie</li>
+          <li>GEEN heuprotaties</li>
+          <li>GEEN heupadductie</li>
+          <li>GEEN posturen</li>
+          <li>GEEN massage uitvoeren op de plaats van de prothese</li>
+          <li>GEEN littekenmassage</li>
+        </ul>
+        <p className="text-uz-grey">
           Bij de reconstructieprothese zijn er echter nog bijkomende
           aandachtspunten die in acht moeten genomen worden:
-          <ul className="list-disc px-5">
-            <li>NIET doormobiliseren</li>
-            <li>
-              GEEN abductie voor minstens 6 weken (deze periode kan verlengd
-              worden indien de patiënt adjuvante therapie krijgt en/of indien
-              chirurg dit aangeeft (geen ingroei van prothese))
-            </li>
-            <li>
-              GEEN steunname voor minstens 6 weken (periode kan verlengd worden
-              indien de patiënt adjuvante therapie krijgt en/of indien chirurg
-              dit aangeeft (geen ingroei van prothese))
-            </li>
-          </ul>
         </p>
+        <ul className="list-disc px-5 mb-3 text-uz-grey">
+          <li>NIET doormobiliseren</li>
+          <li>
+            GEEN abductie voor minstens 6 weken (deze periode kan verlengd
+            worden indien de patiënt adjuvante therapie krijgt en/of indien
+            chirurg dit aangeeft (geen ingroei van prothese))
+          </li>
+          <li>
+            GEEN steunname voor minstens 6 weken (periode kan verlengd worden
+            indien de patiënt adjuvante therapie krijgt en/of indien chirurg dit
+            aangeeft (geen ingroei van prothese))
+          </li>
+        </ul>
         <p className="mb-3 text-uz-grey">
           Na een klassieke heupprothese mogen de patiënten voorzichtig bridgen.
           Het is belangrijk dat de patiënt regelmatig knie-extensie uitvoert en
@@ -202,17 +202,19 @@ export default function Home() {
           reconstructieprothese.
         </p>
         <table className="mb-3 text-uz-grey table-fixed">
-          <thead className=" border-solid border-2">
-            <th className=" border-solid border-2">
-              Gelijkenissen met klassieke heupprothese
-            </th>{" "}
-            <th className=" border-solid border-2">
-              Verschillen met klassieke heupprothese <br /> – extra
-              aandachtspunten bij reconstructieprothese
-            </th>
+          <thead>
+            <tr className=" border-solid border-2">
+              <th className=" border-solid border-2">
+                Gelijkenissen met klassieke heupprothese
+              </th>{" "}
+              <th className=" border-solid border-2">
+                Verschillen met klassieke heupprothese <br /> – extra
+                aandachtspunten bij reconstructieprothese
+              </th>
+            </tr>
           </thead>
-          <tbody className=" border-solid border-2">
-            <tr>
+          <tbody>
+            <tr className=" border-solid border-2">
               <td className="border-solid border-2 p-5 align-top">
                 <ul className="list-disc px-5">
                   <li>Geen straight leg raise</li>
@@ -403,35 +405,30 @@ export default function Home() {
           eventuele antislipsokken. Volgende progressies en regressies kunnen
           gemaakt worden:
         </p>
-        <p className="mb-3 text-uz-grey">
-          Mogelijke progressies:{" "}
-          <ul className="list-disc px-5">
-            <li>
-              Gebruik een instabiele ondergrond zoals een airexmatje of bosubal
-            </li>
-            <li>Gebruik een hellend steunvlak</li>
-            <li>
-              Geef een cognitieve (bijvoorbeeld tellen vanaf 100 naar 0 in
-              stappen van 7) of motorische (bijvoorbeeld met een bal in de
-              handen een cijfer 8 beweging maken) dubbeltaak
-            </li>
-            <li>Laat de patiënt zijn ogen sluiten</li>
-          </ul>
-        </p>
-        <p className="mb-3 text-uz-grey">
-          Mogelijke regressies:{" "}
-          <ul className="list-disc px-5">
-            <li>
-              Gebruik een groter steunvlak door voeten verder uit elkaar te
-              zetten{" "}
-            </li>
-            <li>Gebruik een spiegel</li>
-            <li>
-              Laat de patiënt oefenen op blote voeten omwille van tactiele
-              feedback
-            </li>
-          </ul>
-        </p>
+        <p className="text-uz-grey">Mogelijke progressies: </p>
+        <ul className="list-disc px-5 mb-3 text-uz-grey">
+          <li>
+            Gebruik een instabiele ondergrond zoals een airexmatje of bosubal
+          </li>
+          <li>Gebruik een hellend steunvlak</li>
+          <li>
+            Geef een cognitieve (bijvoorbeeld tellen vanaf 100 naar 0 in stappen
+            van 7) of motorische (bijvoorbeeld met een bal in de handen een
+            cijfer 8 beweging maken) dubbeltaak
+          </li>
+          <li>Laat de patiënt zijn ogen sluiten</li>
+        </ul>
+        <p className="text-uz-grey">Mogelijke regressies: </p>
+        <ul className="list-disc px-5 mb-3 text-uz-grey">
+          <li>
+            Gebruik een groter steunvlak door voeten verder uit elkaar te zetten{" "}
+          </li>
+          <li>Gebruik een spiegel</li>
+          <li>
+            Laat de patiënt oefenen op blote voeten omwille van tactiele
+            feedback
+          </li>
+        </ul>
         <h2 className="mb-3 text-xl font-roboto text-uz-grey">
           Functionele oefeningen met inbegrip van gangrevalidatie
         </h2>
