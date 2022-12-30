@@ -54,7 +54,7 @@ export default function ExerciseDetails() {
   displayImages = displayImages.filter((e) => e !== undefined);
 
   let displayInstructions = [];
-  displayInstructions = instruction.split(/\r?\n/);
+  instruction ? (displayInstructions = instruction.split(/\r?\n/)) : "";
 
   return (
     <section className="pt-5">
