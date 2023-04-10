@@ -20,7 +20,11 @@ export default function Home() {
           toegelaten hoeveelheid steunname en range of motion naar heupflexie,
           abductie, endo- en exorotatie is. Het is van belang om deze
           richtlijnen te respecteren en nauwgezet op te volgen om complicaties
-          te vermijden.{" "}
+          te vermijden. Het is belangrijk om te benadrukken dat de revalidatie
+          na deze ingreep sterk individueel kan verschillen van patiënt tot
+          patiënt. Het is daarom van belang om mee te geven aan de patiënt dat
+          het geen zin heeft om het revalidatieproces te vergelijken met deze
+          van andere patiënten die dezelfde ingreep ondergaan.{" "}
         </p>
         <p className="mb-3 text-uz-grey">
           Indien u op eender welk moment van de revalidatie vragen of twijfels
@@ -37,7 +41,11 @@ export default function Home() {
           houden met het beschermen van de prothese en de vastgehechte
           structuren bij het uitvoeren van ADL-activiteiten. Ook algemene
           oefentherapie is aangewezen om de belastbaarheid van de patiënt en de
-          structuren rondom de heup te optimaliseren.
+          structuren rondom de heup te optimaliseren. Het kan zijn dat
+          preoperatief de patiënten niet teveel kracht mogen uitoefenen op de
+          femur door verzwakking van het bot als gevolg van de tumor. Dit dient
+          dan ook vermeld te worden op het voorschrift of nagevraagd te worden
+          aan de behandelende arts.
         </p>
         <p className="mb-3 text-uz-grey">
           De patiënt kan tijdens de operatie een ingroeiprothese of een
@@ -81,14 +89,19 @@ export default function Home() {
             <u>Postoperatief</u>
           </strong>{" "}
           zal iedere patiënt de eerste 6 weken een abductiebrace dragen
-          aangezien er in deze periode geen abductie mag worden uitgevoerd.
-          Afhankelijk van wat de chirurg adviseert, kan deze periode langer
-          duren. De patiënt mag, zoals eerder vermeld, 6 weken niet steunen. Er
-          dient in deze eerste fase aandacht gegeven te worden aan activatie van
-          de patiënt, circulatoire en pijndempende oefeningen en isometrische
-          krachttraining van zowel het aangedane als het niet-aangedane been.
-          Functionele oefeningen zoals in en uit bed komen, gaan zitten en
-          rechtstaan worden ingeoefend.
+          aangezien er in deze periode geen abductie en adductie mag worden
+          uitgevoerd. Een abductiebrace verhindert zowel abductie- als
+          adductiebewegingen. Afhankelijk van wat de chirurg adviseert, kan deze
+          periode langer duren. De patiënt mag, zoals eerder vermeld, 6 weken
+          niet steunen. Er dient in deze eerste fase aandacht gegeven te worden
+          aan activatie van de patiënt, circulatoire en pijndempende oefeningen
+          en isometrische krachttraining van zowel het aangedane als het
+          niet-aangedane been. Onmiddellijk postoperatief is het van belang een
+          aantal functionele activiteiten en transfers te oefenen, zoals opstaan
+          uit bed, gaan zitten en rechtstaan van een stoel en plaatsnemen in een
+          auto. Het is belangrijk dat dit op een correcte manier kan gebeuren om
+          de prothese en vastgehechte structuren na de ingreep maximaal te
+          beschermen.
         </p>
         <p className="mb-3 text-uz-grey">
           Wanneer de wonde van de patiënt voldoende genezen is en indien de

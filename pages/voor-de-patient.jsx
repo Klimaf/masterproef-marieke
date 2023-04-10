@@ -34,7 +34,11 @@ export default function Home() {
           namelijk van belang om postoperatief rekening te houden met het
           beschermen van de prothese en de vastgehechte structuren bij het
           uitvoeren van alledaagse activiteiten. Ook algemene oefentherapie is
-          aangewezen om uw conditie en algemene belastbaarheid op te bouwen.
+          aangewezen om uw conditie en algemene belastbaarheid op te bouwen. Het
+          kan zijn dat u preoperatief niet teveel kracht mag uitoefenen op de
+          heup door verzwakking van het bot als gevolg van de tumor. Dit zal
+          vermeld staan op uw voorschrift of dient nagevraagd te worden bij uw
+          behandelende arts.
         </p>
 
         <p className="mb-3 text-uz-grey">
@@ -64,12 +68,12 @@ export default function Home() {
         <div className="flex items-center gap-5">
           <Image
             src={VDP5}
-            className="w-[20rem]"
+            className="w-[10rem] md:w-[20rem]"
             alt="afbeelding van trochanter major met aanhechting van de abductoren"
           />
           <Image
             src={VDP6}
-            className="w-[20rem]"
+            className="w-[10rem] md:w-[20rem]"
             alt="afbeelding van zijwaartse beweging van het been, abductie genaamd"
           />
         </div>
@@ -91,13 +95,17 @@ export default function Home() {
           <strong>
             <u>Postoperatief</u>
           </strong>{" "}
-          zal u de eerste 6 weken een abductiebrace dragen om heupabucties te
-          vermijden. U mag, zoals eerder vermeld, 6 weken niet steunen op het
-          geopereerde been. In het ziekenhuis zal de kinesitherapie bestaan uit
-          algemene activerende oefeningen, circulatoire en pijndempende
-          oefeningen en enkele krachtoefeningen van de niet-aangedane ledematen
-          en romp. Alledaagse activiteiten zoals opstaan uit bed, gaan zitten en
-          rechtstaan zullen geoefend worden.{" "}
+          zal u de eerste 6 weken een abductiebrace dragen om heupabuctie en
+          -adductie te vermijden. U mag, zoals eerder vermeld, 6 weken niet
+          steunen op het geopereerde been. In het ziekenhuis zal de
+          kinesitherapie bestaan uit algemene activerende oefeningen,
+          circulatoire en pijndempende oefeningen en enkele krachtoefeningen van
+          de niet-aangedane ledematen en romp. Onmiddellijk postoperatief is het
+          van belang een aantal alledaagse activiteiten en transfers te oefenen,
+          zoals opstaan uit bed, gaan zitten en rechtstaan van een stoel en
+          plaatsnemen in een auto. Het is belangrijk dat dit op een correcte
+          manier kan gebeuren om de prothese en vastgehechte structuren na de
+          ingreep maximaal te beschermen.{" "}
         </p>
 
         <p className="mb-3 text-uz-grey">
@@ -147,7 +155,7 @@ export default function Home() {
           </li>
           <Image
             src={VDP1}
-            className="w-[20rem]"
+            className="w-[10rem] md:w-[20rem]"
             alt="afbeelding straight leg raise"
           />
           <li>U mag het been niet naar binnen of buiten draaien.</li>
@@ -158,7 +166,7 @@ export default function Home() {
           </li>
           <Image
             src={VDP2}
-            className="w-[20rem]"
+            className="w-[10rem] md:w-[20rem]"
             alt="afbeelding kussen tussen benen in slaappositie"
           />
         </ul>
@@ -175,7 +183,6 @@ export default function Home() {
           kinesitherapeut aan te geven wanneer u pijn heeft. Als u pijn ervaart,
           stopt u met de oefeningen.{" "}
         </p>
-
         <p className="mb-3 text-uz-grey">
           <strong>
             <u>Sportactiviteiten</u>
@@ -189,6 +196,12 @@ export default function Home() {
           Sporten die herhaalde schokken veroorzaken, zoals lange afstandslopen
           alsook contactsporten worden niet aanbevolen. Het is belangrijk om te
           blijven bewegen en een activiteit te vinden die u fit en gezond houdt.
+        </p>
+        <p className="mb-3 text-uz-grey">
+          Het is belangrijk om te benadrukken dat de revalidatie na deze ingreep
+          sterk individueel kan verschillen van patiënt tot patiënt. Heet heeft
+          dan ook zin dat u uw revalidatieproces vergelijkt met deze van andere
+          patiënten die dezelfde ingreep ondergaan.
         </p>
 
         <h1 className="mb-3 text-xl font-roboto text-uz-blue">
@@ -273,8 +286,16 @@ export default function Home() {
         </p>
 
         <div className="flex items-center gap-5">
-          <Image src={VDP4} className="w-[20rem]" alt="afbeelding manchet" />
-          <Image src={VDP3} className="w-[20rem]" alt="afbeelding theraband" />
+          <Image
+            src={VDP4}
+            className="w-[10rem] md:w-[20rem]"
+            alt="afbeelding manchet"
+          />
+          <Image
+            src={VDP3}
+            className="w-[10rem] md:w-[20rem]"
+            alt="afbeelding theraband"
+          />
         </div>
 
         <h2 className="mb-3 text-xl font-roboto text-uz-grey">Lenigheid</h2>
@@ -308,7 +329,7 @@ export default function Home() {
 
         <Image
           src={VDP7}
-          className="w-[30rem] mb-3"
+          className="w-[10rem] md:w-[30rem] mb-3"
           alt="afbeelding voetposities"
         />
 

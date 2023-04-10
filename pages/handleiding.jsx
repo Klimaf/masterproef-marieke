@@ -162,11 +162,16 @@ export default function Home() {
           Checklist PDF
         </a>
         <p className="my-3 text-uz-grey">
-          Hier vindt u een lijst met oefeningen, geordend volgens doelstelling.
-          De nummering in deze lijst komt overeen met de nummering die in de
-          videobibliotheek wordt gebruikt. Deze lijst kan gebruikt worden door
-          de behandelende kinesitherapeut bij het noteren van de oefeningen in
-          de checklist die de patiënt thuis moet uitvoeren.
+          Hier vindt u een{" "}
+          <u>
+            <b>lijst met oefeningen</b>
+          </u>
+          , geordend volgens doelstelling. U kan deze lijst gebruiken indien u
+          de oefeningen per doelstelling wil terugvinden. De nummering in deze
+          lijst komt overeen met de nummering die in de videobibliotheek wordt
+          gebruikt. Deze lijst kan gebruikt worden door de behandelende
+          kinesitherapeut bij het noteren van de oefeningen in de checklist die
+          de patiënt thuis moet uitvoeren.
         </p>
         <a
           className="ml-0 m-1 py-1 px-3 font-semibold cursor-pointer font-ubuntu border-uz-blue border-2 text-uz-blue hover:bg-uz-blue hover:text-white"
