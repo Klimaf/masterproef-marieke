@@ -199,9 +199,9 @@ export default function Home() {
         </p>
         <p className="mb-3 text-uz-grey">
           Het is belangrijk om te benadrukken dat de revalidatie na deze ingreep
-          sterk individueel kan verschillen van patiënt tot patiënt. Heet heeft
-          dan ook zin dat u uw revalidatieproces vergelijkt met deze van andere
-          patiënten die dezelfde ingreep ondergaan.
+          sterk individueel kan verschillen van patiënt tot patiënt. Het heeft
+          dan ook geen zin dat u uw revalidatieproces vergelijkt met deze van
+          andere patiënten die dezelfde ingreep ondergaan.
         </p>
 
         <h1 className="mb-3 text-xl font-roboto text-uz-blue">
