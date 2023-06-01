@@ -18,7 +18,7 @@ export default function Home() {
           richtlijnen zijn afhankelijk van de uitgevoerde operatie en zullen
           patiëntspecifiek zijn. De chirurg zal onder andere meedelen wat de
           toegelaten hoeveelheid steunname en range of motion naar heupflexie,
-          abductie, endo- en exorotatie is. Het is van belang om deze
+          ab- en adductie, endo- en exorotatie is. Het is van belang om deze
           richtlijnen te respecteren en nauwgezet op te volgen om complicaties
           te vermijden. Het is belangrijk om te benadrukken dat de revalidatie
           na deze ingreep sterk individueel kan verschillen van patiënt tot
@@ -41,11 +41,11 @@ export default function Home() {
           houden met het beschermen van de prothese en de vastgehechte
           structuren bij het uitvoeren van ADL-activiteiten. Ook algemene
           oefentherapie is aangewezen om de belastbaarheid van de patiënt en de
-          structuren rondom de heup te optimaliseren. Het kan zijn dat
-          preoperatief de patiënten niet teveel kracht mogen uitoefenen op de
-          femur door verzwakking van het bot als gevolg van de tumor. Dit dient
-          dan ook vermeld te worden op het voorschrift of nagevraagd te worden
-          aan de behandelende arts.
+          structuren rondom de heup te optimaliseren. Het kan zijn dat de
+          patiënten preoperatief niet teveel kracht mogen uitoefenen op de femur
+          door verzwakking van het bot als gevolg van de tumor. Dit dient dan
+          ook vermeld te worden op het voorschrift of nagevraagd te worden aan
+          de behandelende arts.
         </p>
         <p className="mb-3 text-uz-grey">
           De patiënt kan tijdens de operatie een ingroeiprothese of een
@@ -90,8 +90,8 @@ export default function Home() {
           </strong>{" "}
           zal iedere patiënt de eerste 6 weken een abductiebrace dragen
           aangezien er in deze periode geen abductie en adductie mag worden
-          uitgevoerd. Een abductiebrace verhindert zowel abductie- als
-          adductiebewegingen. Afhankelijk van wat de chirurg adviseert, kan deze
+          uitgevoerd. Een abductiebrace verhindert zowel abductie als adductie
+          van de heup. Afhankelijk van wat de chirurg adviseert, kan deze
           periode langer duren. De patiënt mag, zoals eerder vermeld, 6 weken
           niet steunen. Er dient in deze eerste fase aandacht gegeven te worden
           aan activatie van de patiënt, circulatoire en pijndempende oefeningen
@@ -114,8 +114,35 @@ export default function Home() {
           in het zwembad van het revalidatiecentrum K7. Het zwembad heeft drie
           verschillende dieptes. In welke diepte men oefent is afhankelijk van
           de revalidatiefase. Hydrotherapie is een belangrijk onderdeel van de
-          revalidatie aangezien dit goede resultaten geeft.
+          revalidatie aangezien dit goede resultaten geeft. Veel patiënten weten
+          niet aan wat ze zich moeten verwachten wanneer ze voor de eerste keer
+          hydrotherapie krijgen. Daarom kan het nuttig zijn om volgende stappen
+          die genomen worden tijdens de hydrotherapie mee te delen met de
+          patiënt
         </p>
+
+        <ul className="list-disc px-5 mb-3 text-uz-grey">
+          <li>
+            Men start in water op schouderhoogte, omdat dan het meeste
+            lichaamsgewicht door het water wordt gedragen en dit het oefenen een
+            stuk gemakkelijker maakt. Een reeks van lichte oefeningen wordt
+            uitgevoerd onder begeleiding van een kinesitherapeut.
+          </li>
+          <li>
+            Geleidelijk aan worden de oefeningen zwaarder gemaakt. Steeds meer
+            zal men evolueren naar het ondiepe deel van het zwembad, zodat het
+            water steeds lager komt te staan en er minder van het
+            lichaamsgewicht gedragen wordt door het water.
+          </li>
+          <li>
+            Indien dit vlot gaat, wordt overgegaan naar het grote zwembad. Daar
+            is er minder begeleiding van de kinesitherapeut en moet de patiënt
+            meer zelfstandig oefenen. Natuurlijk is er altijd een therapeut
+            aanwezig die de patiënt observeert en waaraan vragen kan gesteld
+            worden indien nodig.
+          </li>
+        </ul>
+
         <p className="mb-3 text-uz-grey">
           Eenmaal goedkeuring is gegeven door de chirurg om te steunen, kan de{" "}
           <strong>
@@ -124,6 +151,14 @@ export default function Home() {
           progressief worden opgebouwd. Over het algemeen worden volgende regels
           gehanteerd. Er mag gestart worden met 20 kg steunname. Dit wordt
           iedere week met 5 kg opgedreven tot volledige steunname mogelijk is.
+          Het opnieuw leren stappen wordt gestart met een looprek en zonder
+          steunname op het geopereerde been. Daarna leert de patiënt stappen met
+          2 krukken, initieel zonder steunname en wanneer goedkeuring wordt
+          gegeven door de chirurg, met gedeeltelijke steunname op het
+          geopereerde been. Als dit goed lukt, gaat men over naar 1 kruk om
+          uiteindelijk de patiënt terug zelfstandig zonder hulpmiddelen te laten
+          stappen. Voor lange afstanden wordt nog aangeraden om een kruk of
+          wandelstok te gebruiken.
         </p>
         <p className="mb-3 text-uz-grey">
           <strong>
@@ -145,7 +180,7 @@ export default function Home() {
           te trainen. Deze kunnen aan de hand van hogere load oefeningen
           versterkt worden. Extra aandacht moet hier besteed worden aan de lage
           load van de oefeningen wanneer patiënten radio- of chemotherapie
-          krijgen.
+          krijgen, aangezien ze tijdens deze periode heel zwak zijn.
         </p>
         <p className="text-uz-grey">
           Hieronder vindt u een samenvatting van wat{" "}
@@ -282,6 +317,21 @@ export default function Home() {
           </tbody>
         </table>
         <p className="mb-3 text-uz-grey">
+          Let goed op voor het optreden van{" "}
+          <u>
+            <b>complicaties</b>
+          </u>
+          . Zoals eerder vermeld, zijn heupflexie, -adductie en -endorotatie de
+          bewegingen die mogelijks een luxatie kunnen uitlokken en dienen direct
+          postoperatief vermeden te worden. Inspecteer ook regelmatig de heup om
+          zeker te zijn dat er geen roodheid en zwelling aanwezig is. Indien er
+          roodheid, zwelling en aanhoudende pijn aanwezig is, bespreekt u dit
+          met de patiënt en contacteert u de arts om hem/haar op de hoogte te
+          brengen van een mogelijke infectie. Lichte pijn tijdens het oefenen is
+          normaal, indien de pijn voor enkele dagen blijft aanhouden en niet
+          verbetert in rust, contacteer dan de arts van de patiënt.
+        </p>
+        <p className="mb-3 text-uz-grey">
           De videobibliotheek is ontwikkeld om te dienen als hulpmiddel in de
           totale revalidatie. Dit laat de patiënt toe om thuis kwalitatief en
           zelfstandig verder te oefenen, onder wekelijkse begeleiding van de
@@ -291,7 +341,7 @@ export default function Home() {
           Specifieke richtlijnen voor de kinesitherapeut
         </h1>
         <h2 className="mb-3 text-xl font-roboto text-uz-grey">
-          Pijndempende en circulatiebevorderende oefeningen
+          Pijndempende en circulatoire oefeningen
         </h2>
         <p className="mb-3 text-uz-grey">
           Onmiddellijk postoperatief kan u de patiënt activeren met enkele
@@ -453,7 +503,7 @@ export default function Home() {
         </p>
         <p className="mb-3 text-uz-grey">
           Er is een extra focus gelegd op gangrevalidatie. Ga na bij de chirurg
-          wanneer steunname mag opgebouwd worden. Van zodra volledige steunname
+          wanneer steunname mag opgebouwd worden. Zodra volledige steunname
           mogelijk is, kunnen deze oefeningen opgestart worden. Laat de patiënt
           variëren in snelheid, cadans en stapgrootte. Laat hem buiten stappen
           op gras, kasseien en binnen met schoenen of op blote voeten. Voeg
