@@ -140,11 +140,9 @@ export default function Home() {
           </strong>{" "}
           ter beschikking zodat de kinesitherapeut kan noteren welke oefeningen
           de patiënt mag uitvoeren. De therapeut schrijft per oefening de
-          modaliteiten op. Voor de patiënt is er een balk aanwezig met de
-          weekdagen zodat per oefening kan aangeduid worden wanneer de patiënt
-          deze heeft uitgevoerd. Bij het uitvoeren van de oefeningen heeft de
-          patiënt de mogelijkheid om bijkomende opmerkingen en moeilijkheden te
-          noteren, die bij het volgende consult zullen besproken worden.{" "}
+          modaliteiten op. Bij het uitvoeren van de oefeningen heeft de patiënt
+          de mogelijkheid om bijkomende opmerkingen en moeilijkheden te noteren,
+          die bij het volgende consult zullen besproken worden.{" "}
         </p>
         <p className="mb-3 text-uz-grey">De checklist vindt u hier:</p>
         <a

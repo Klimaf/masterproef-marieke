@@ -138,7 +138,7 @@ export default function Home() {
             Indien dit vlot gaat, wordt overgegaan naar het grote zwembad. Daar
             is er minder begeleiding van de kinesitherapeut en moet de patiënt
             meer zelfstandig oefenen. Natuurlijk is er altijd een therapeut
-            aanwezig die de patiënt observeert en waaraan vragen kan gesteld
+            aanwezig die de patiënt observeert en waaraan vragen kunnen gesteld
             worden indien nodig.
           </li>
         </ul>
@@ -431,7 +431,7 @@ export default function Home() {
         </p>
         <p className="mb-3 text-uz-grey">
           Om de oefeningen zwaarder te maken, kunnen manchetten en therabanden
-          gebruikt worden. Bij iedere video is een foto toegevoegd die tonen hoe
+          gebruikt worden. Bij iedere video is een foto toegevoegd die toont hoe
           de patiënt een manchet of theraband kan gebruiken en waar deze dient
           bevestigd te worden.
         </p>

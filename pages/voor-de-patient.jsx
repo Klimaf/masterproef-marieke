@@ -85,7 +85,7 @@ export default function Home() {
             <u>gecementeerde prothese</u>
           </strong>{" "}
           heeft, mag u net zoals bij een ingroeiprothese, de eerste 6 weken geen
-          zijwaartse bewegingen van het been uitvoeren om de het bot met zijn
+          zijwaartse bewegingen van het been uitvoeren om het bot met zijn
           spieraanhechtingen de tijd te geven om terug vast te groeien. Omwille
           van dezelfde reden mag u ook niet steunen in de eerste 6 weken. Als u
           chemo- en/of radiotherapie krijgt, zal de revalidatie, net zoals bij
@@ -97,8 +97,8 @@ export default function Home() {
             <b>pijnstilling</b>
           </u>{" "}
           krijgen van het ziekenhuis. Het wordt ook aangeraden om na ontslag uit
-          het ziekenhuis pijnstilling te nemen, omdat vroegtijdig stoppen met
-          pijnmedicatie aanleiding kan geven tot een doorbraak van pijn, die
+          het ziekenhuis pijnstilling te nemen, aangezien vroegtijdig stoppen
+          met pijnmedicatie aanleiding kan geven tot een doorbraak van pijn, die
           moeilijk terug onder controle te krijgen is. Volgende medicatie kan u
           innemen:
         </p>
@@ -247,7 +247,7 @@ export default function Home() {
             U mag het been niet gestrekt in lig opheffen direct na de operatie.
             Dit zal na de operatie een pijnlijke beweging zijn en zal u
             waarschijnlijk onbewust niet uitvoeren. Na verloop van tijd wordt de
-            beweging minder pijnlijk en mag dit terug uitvoeren.
+            beweging minder pijnlijk en mag u dit terug uitvoeren.
           </li>
           <Image
             src={VDP1}
