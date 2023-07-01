@@ -1,0 +1,2495 @@
+[
+  {
+    "attributes": {
+      "title": "Oefening 1: Spierpomp oefeningen bovenste ledematen in ruglig ",
+      "urlVideo": "https://www.youtube.com/embed/ayW6khX7O6s",
+      "tags": "direct postoperatief, niet steunen, geen abductie",
+      "slug": "oefening-1-spierpomp-oefeningen-bovenste-ledematen-in-ruglig",
+      "__typename": "Exercise",
+      "tagArray": ["direct postoperatief", "geen abductie", "niet steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 2: Spierpomp oefeningen onderste ledematen in ruglig",
+      "urlVideo": "https://www.youtube.com/embed/bkeNaAueG60",
+      "tags": "direct postoperatief, geen abductie, niet steunen",
+      "slug": "oefening-2-spierpomp-oefeningen-onderste-ledematen-in-ruglig",
+      "__typename": "Exercise",
+      "tagArray": ["direct postoperatief", "geen abductie", "niet steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 3: Isometrische plantairflexie in ruglig",
+      "urlVideo": "https://www.youtube.com/embed/ypAnq7cU7_0",
+      "tags": "direct postoperatief, geen abductie, niet steunen",
+      "slug": "oefening-3-isometrische-plantairflexie-in-ruglig",
+      "__typename": "Exercise",
+      "tagArray": ["direct postoperatief", "geen abductie", "niet steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 4: Quadricepssetting toepassing",
+      "urlVideo": "https://www.youtube.com/embed/w9IY_h6sqk4",
+      "tags": "preoperatief, direct postoperatief, postoperatief, onderhoudsfase, geen abductie, niet steunen, abductie, steunen",
+      "slug": "oefening-4-quadricepssetting-toepassing",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "preoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 5: Hamstringssetting",
+      "urlVideo": "https://www.youtube.com/embed/6MZqtQvKlOA",
+      "tags": "direct postoperatief, niet steunen, geen abductie",
+      "slug": "oefening-5-hamstringssetting",
+      "__typename": "Exercise",
+      "tagArray": ["direct postoperatief", "geen abductie", "niet steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 6: Heel slide met handdoek in ruglig",
+      "urlVideo": "https://www.youtube.com/embed/7GiRM9TlFTU",
+      "tags": "direct postoperatief, niet steunen, geen abductie, postoperatief, steunen, abductie",
+      "slug": "oefening-6-heel-slide-met-handdoek-in-ruglig",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 7: Heel slide met bal in ruglig",
+      "urlVideo": "https://www.youtube.com/embed/PqT3ksqiock",
+      "tags": "direct postoperatief, niet steunen, geen abductie, postoperatief, steunen, abductie",
+      "slug": "oefening-7-heel-slide-met-bal-in-ruglig",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 8: Isometrische adductie met bal in ruglig",
+      "urlVideo": "https://www.youtube.com/embed/4_WriZRRJCM",
+      "tags": "direct postoperatief, niet steunen, geen abductie, postoperatief, steunen, abductie",
+      "slug": "oefening-8-isometrische-adductie-met-bal-in-ruglig-1",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 9: Spierpomp oefeningen bovenste ledematen in zit",
+      "urlVideo": "https://www.youtube.com/embed/An6lWk90VzM",
+      "tags": "direct postoperatief, niet steunen, geen abductie",
+      "slug": "oefening-spierpomp-oefeningen-bovenste-ledematen-in-zit",
+      "__typename": "Exercise",
+      "tagArray": ["direct postoperatief", "geen abductie", "niet steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 10: Tenenstand in zit",
+      "urlVideo": "https://www.youtube.com/embed/Ph61Vq0QR1w",
+      "tags": "direct postoperatief, niet steunen, geen abductie, postoperatief, steunen, abductie",
+      "slug": "oefening-10-tenenstand-in-zit",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 11: Hielenstand in zit",
+      "urlVideo": "https://www.youtube.com/embed/onnKHWJxX5I",
+      "tags": "direct postoperatief, niet steunen, geen abductie, postoperatief, steunen, abductie",
+      "slug": "oefening-11-hielenstand-in-zit",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 12: Isometrische plantairflexie in zit",
+      "urlVideo": "https://www.youtube.com/embed/-D58lD-1xZE",
+      "tags": "direct postoperatief, niet steunen, geen abductie",
+      "slug": "oefening-12-isometrische-plantairflexie-in-zit",
+      "__typename": "Exercise",
+      "tagArray": ["direct postoperatief", "geen abductie", "niet steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 13: Footcore handdoek grijpen",
+      "urlVideo": "https://www.youtube.com/embed/mtZNvWAydJE",
+      "tags": "direct postoperatief, niet steunen, geen abductie",
+      "slug": "oefening-13-footcore-handdoek-grijpen",
+      "__typename": "Exercise",
+      "tagArray": ["direct postoperatief", "geen abductie", "niet steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 14: Circumductie enkel in zit ",
+      "urlVideo": "https://www.youtube.com/embed/NEyIg_1DUHo",
+      "tags": "direct postoperatief, niet steunen, geen abductie",
+      "slug": "oefening-14-circumductie-enkel-in-zit",
+      "__typename": "Exercise",
+      "tagArray": ["direct postoperatief", "geen abductie", "niet steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 15: Heel slide met handdoek in zit",
+      "urlVideo": "https://www.youtube.com/embed/GJmY4NDWDfk",
+      "tags": "direct postoperatief, niet steunen, geen abductie, steunen, abductie, postoperatief",
+      "slug": "oefening-15-heel-slide-met-handdoek-in-zit",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 16: Heel slide met bal in zit",
+      "urlVideo": "https://www.youtube.com/embed/smKoNyOYB0A",
+      "tags": "direct postoperatief, geen abductie, niet steunen, postoperatief, steunen, abductie",
+      "slug": "oefening-16-heel-slide-met-bal-in-zit",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 17: Pendelen knieën ",
+      "urlVideo": "https://www.youtube.com/embed/3yK0SRxAu-E",
+      "tags": "direct postoperatief, niet steunen, geen abductie",
+      "slug": "oefening-17-pendelen-knieen",
+      "__typename": "Exercise",
+      "tagArray": ["direct postoperatief", "geen abductie", "niet steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 18: Knie extensie in zit",
+      "urlVideo": "https://www.youtube.com/embed/g33stlWAYdk",
+      "tags": "direct postoperatief, niet steunen, geen abductie, postoperatief, steunen, abductie",
+      "slug": "oefening-18-knie-extensie-in-zit",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 19: Isometrische heupadductie met bal in zit",
+      "urlVideo": "https://www.youtube.com/embed/MpCk5M3FOx4",
+      "tags": "direct postoperatief, niet steunen, abductie, postoperatief, steunen",
+      "slug": "oefening-19-isometrische-heupadductie-met-bal-in-zit",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "niet steunen",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 20: Pendelen heup op trapje",
+      "urlVideo": "https://www.youtube.com/embed/do6cSI6Qy6c",
+      "tags": "direct postoperatief, niet steunen, geen abductie, postoperatief, steunen, abductie",
+      "slug": "oefening-20-pendelen",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 21: Pendelen heup actief",
+      "urlVideo": "https://www.youtube.com/embed/w0rGgCFXC4k",
+      "tags": "postoperatief, steunen, abductie, niet steunen, geen abductie, onderhoudsfase",
+      "slug": "oefening-21-pendelen-heup-actief",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 22: Bekkenkantelingen in handen en knieënstand",
+      "urlVideo": "https://www.youtube.com/embed/Gjc5nCvNfUk",
+      "tags": "preoperatief, postoperatief, steunen, abductie, geen abductie",
+      "slug": "oefening-22-bekkenkantelingen-in-handen-en-knieenstand",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "postoperatief",
+        "preoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 23: Bekkenkantelingen in zit",
+      "urlVideo": "https://www.youtube.com/embed/9juJS-93-A4",
+      "tags": "preoperatief, postoperatief, steunen, abductie, geen abductie, niet steunen",
+      "slug": "oefening-23-bekkenkantelingen-in-zit",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "preoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 24: Bekkenkantelingen tegen tafel",
+      "urlVideo": "https://www.youtube.com/embed/peyrdR3n6B0",
+      "tags": "preoperatief, postoperatief, steunen, abductie, geen abductie",
+      "slug": "oefening-24-bekkenkantelingen-tegen-tafel",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "postoperatief",
+        "preoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 25: Bekkenkantelingen in stand",
+      "urlVideo": "https://www.youtube.com/embed/YHMksZTQjuQ",
+      "tags": "preoperatief, postoperatief, niet steunen, abductie, geen abductie",
+      "slug": "oefening-25-bekkenkantelingen-in-stand",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "preoperatief"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 26: Quadricepssetting",
+      "urlVideo": "https://www.youtube.com/embed/Rm_HXyfUzDE",
+      "tags": "preoperatief, direct postoperatief, niet steunen, geen abductie",
+      "slug": "oefening-26-quadricepssetting",
+      "__typename": "Exercise",
+      "tagArray": [
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "preoperatief"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 27: Hamstringssetting met bobathbal in ruglig",
+      "urlVideo": "https://www.youtube.com/embed/QKHhBi6i120",
+      "tags": "preoperatief, postoperatief, steunen, abductie, geen abductie, niet steunen, ",
+      "slug": "oefening-27-hamstringssetting-met-bobathbal-in-ruglig",
+      "__typename": "Exercise",
+      "tagArray": [
+        "",
+        "abductie",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "preoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 28: Adductorsetting",
+      "urlVideo": "https://www.youtube.com/embed/bNKz2jvnO_o",
+      "tags": "preoperatief, direct postoperatief, niet steunen, geen abductie, steunen, abductie, postoperatief, ",
+      "slug": "oefening-28-adductorsetting",
+      "__typename": "Exercise",
+      "tagArray": [
+        "",
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "preoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 29: Isometrische heupadductie met bal in ruglig, geplooide knie",
+      "urlVideo": "https://www.youtube.com/embed/vgPn7S6UQxs",
+      "tags": "direct postoperatief, niet steunen, geen abductie, postoperatief, steunen, abductie",
+      "slug": "oefening-29-isometrische-heupadductie-met-bal-in-ruglig-geplooide-knie",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 30: Heupabductie in ruglig",
+      "urlVideo": "https://www.youtube.com/embed/H6z9KFvbXMc",
+      "tags": "postoperatief, steunen, abductie, niet steunen",
+      "slug": "oefening-30-heupabductie-in-ruglig",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "niet steunen", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 31: Bridging, op en neer",
+      "urlVideo": "https://www.youtube.com/embed/BX0-IZBBMlw",
+      "tags": "postoperatief, steunen, geen abductie, onderhoudsfase",
+      "slug": "oefening-31-bridging-op-en-neer",
+      "__typename": "Exercise",
+      "tagArray": [
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 32: Bridging met heupadductie met bal, op en neer",
+      "urlVideo": "https://www.youtube.com/embed/hQUlIsbnCc4",
+      "tags": "postoperatief, steunen, geen abductie, onderhoudsfase",
+      "slug": "oefening-32-bridging-met-heupadductie-met-bal-op-en-neer",
+      "__typename": "Exercise",
+      "tagArray": [
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 33: Bridging met heupadductie, met bal, aanhoudend",
+      "urlVideo": "https://www.youtube.com/embed/Rot4ekZz-V4",
+      "tags": "postoperatief, steunen, geen abductie, onderhoudsfase",
+      "slug": "oefening-33-bridging-met-heupadductie-met-bal-aanhoudend",
+      "__typename": "Exercise",
+      "tagArray": [
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 34: Bridging met tenenstand, op en neer",
+      "urlVideo": "https://www.youtube.com/embed/-WXE-i1Ls38",
+      "tags": "postoperatief, steunen, geen abductie, onderhoudsfase",
+      "slug": "oefening-34-bridging-met-tenenstand-op-en-neer",
+      "__typename": "Exercise",
+      "tagArray": [
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 35: Bridging met tenenstand, aanhoudend",
+      "urlVideo": "https://www.youtube.com/embed/hu5j3UTPzI8",
+      "tags": "postoperatief, geen abductie, steunen, onderhoudsfase",
+      "slug": "oefening-35-bridging-met-tenenstand-aanhoudend",
+      "__typename": "Exercise",
+      "tagArray": [
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 36: Bridging met knie-extensie, op en neer",
+      "urlVideo": "https://www.youtube.com/embed/aS7tSYRiAEk",
+      "tags": "postoperatief, steunen, geen abductie, onderhoudsfase",
+      "slug": "oefening-36-bridging-met-knie-extensie-op-en-neer",
+      "__typename": "Exercise",
+      "tagArray": [
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 37: Bridging met knie-extensie, aanhoudend",
+      "urlVideo": "https://www.youtube.com/embed/Rjr6CHUGY38",
+      "tags": "postoperatief, steunen, geen abductie, onderhoudsfase",
+      "slug": "oefening-37-bridging-met-knie-extensie-aanhoudend",
+      "__typename": "Exercise",
+      "tagArray": [
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 38: Bridging, voeten breed, op en neer",
+      "urlVideo": "https://www.youtube.com/embed/WRRSKyRApno",
+      "tags": "postoperatief, steunen, geen abductie, onderhoudsfase",
+      "slug": "oefening-38-bridging-voeten-breed-op-en-neer",
+      "__typename": "Exercise",
+      "tagArray": [
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 39: Bridging met heupabductie, aanhoudend",
+      "urlVideo": "https://www.youtube.com/embed/z2d3OghstvA",
+      "tags": "postoperatief, steunen, geen abductie, onderhoudsfase",
+      "slug": "oefening-39-bridging-met-heupabductie-aanhoudend",
+      "__typename": "Exercise",
+      "tagArray": [
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 40: Bridging met heupabductie, aanhoudend",
+      "urlVideo": "https://www.youtube.com/embed/pHM7WpcONBs",
+      "tags": "postoperatief, steunen, geen abductie, onderhoudsfase",
+      "slug": "oefening-40-bridging-met-heupabductie-aanhoudend",
+      "__typename": "Exercise",
+      "tagArray": [
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 41: Bridging met bobathbal onder romp",
+      "urlVideo": "https://www.youtube.com/embed/fVhC4ENPT5c",
+      "tags": "postoperatief, steunen, geen abductie, onderhoudsfase",
+      "slug": "oefening-41-bridging-met-bobathbal-onder-romp",
+      "__typename": "Exercise",
+      "tagArray": [
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 42: Bridging met bobathbal onder benen",
+      "urlVideo": "https://www.youtube.com/embed/LvtOc1n8hlo",
+      "tags": "postoperatief, steunen, geen abductie, onderhoudsfase",
+      "slug": "oefening-42-bridging-met-bobathbal-onder-benen",
+      "__typename": "Exercise",
+      "tagArray": [
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 43: Clamshells in zijlig",
+      "urlVideo": "https://www.youtube.com/embed/uNXw-kgaeuw",
+      "tags": "postoperatief, niet steunen, abductie, steunen, onderhoudsfase",
+      "slug": "oefening-43-clamshells-in-zijlig",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 44: Heupabductie in zijlig, geplooide knie",
+      "urlVideo": "https://www.youtube.com/embed/M66jjTsev2E",
+      "tags": "onderhoudsfase, postoperatief, niet steunen, abductie, steunen",
+      "slug": "oefening-44-heupabductie-in-zijlig-geplooide-knie",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 45: Heupabductie in zijlig, gestrekte knie",
+      "urlVideo": "https://www.youtube.com/embed/IHwXBLQ0oNY",
+      "tags": "postoperatief, niet steunen, abductie, steunen, onderhoudsfase",
+      "slug": "oefening-45-heupabductie-in-zijlig-gestrekte-knie",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 46: Heupabductie met bobathbal in zijlig, gestrekte knie",
+      "urlVideo": "https://www.youtube.com/embed/_elnI7NhN_g",
+      "tags": "postoperatief, steunen, niet steunen, abductie, onderhoudsfase",
+      "slug": "oefening-46-heupabductie-met-bobathbal-in-zijlig-gestrekte-knie",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 47: Side plank met heupabductie, geplooide knie",
+      "urlVideo": "https://www.youtube.com/embed/rSSUIUlBPWM",
+      "tags": "postoperatief, steunen, niet steunen, abductie, onderhoudsfase",
+      "slug": "oefening-47-side-plank-met-heupabductie-geplooide-knie",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 48: Side plank met heupabductie, gestrekte knie",
+      "urlVideo": "https://www.youtube.com/embed/tfySWLDaf3E",
+      "tags": "postoperatief, abductie, steunen, niet steunen, onderhoudsfase",
+      "slug": "oefening-48-side-plank-met-heupabductie-gestrekte-knie",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 49: Knieflexie in buiklig",
+      "urlVideo": "https://www.youtube.com/embed/UhKH1KJeDps",
+      "tags": "postoperatief, steunen, abductie, geen abductie, niet steunen",
+      "slug": "oefening-49-knieflexie-in-buiklig",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 50: Heupextensie in buiklig, geplooide knie",
+      "urlVideo": "https://www.youtube.com/embed/33GapTmh5Tg",
+      "tags": "postoperatief, niet steunen, steunen, geen abductie, abductie, onderhoudsfase",
+      "slug": "oefening-50-heupextensie-in-buiklig-geplooide-knie",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 51: Heupextensie in buiklig, gestrekte knie",
+      "urlVideo": "https://www.youtube.com/embed/d4-kM4FrkEc",
+      "tags": "onderhoudsfase",
+      "slug": "oefening-51-heupextensie-in-buiklig-gestrekte-knie",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 52: Heupflexie in zit, geplooide knie",
+      "urlVideo": "https://www.youtube.com/embed/30MiRumyLps",
+      "tags": "postoperatief, abductie, geen abductie, steunen, niet steunen",
+      "slug": "oefening-52-heupflexie-in-zit-geplooide-knie",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 53: Broek aandoen met knijptang",
+      "urlVideo": "https://www.youtube.com/embed/IaKsOuEszL4",
+      "tags": "preoperatief",
+      "slug": "oefening-53-broek-aandoen-met-knijptang",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 54: Heupabductie in zit ",
+      "urlVideo": "https://www.youtube.com/embed/iV_yjlofshE",
+      "tags": "postoperatief, steunen, abductie, niet steunen",
+      "slug": "oefening-54-heupabductie-in-zit",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "niet steunen", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 55: Handen- en knieënstand, reeks A",
+      "urlVideo": "https://www.youtube.com/embed/iSrgxMqgt-Q",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-55-handen-en-knieenstand-reeks-a",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 56: Handen- en knieënstand, reeks B",
+      "urlVideo": "https://www.youtube.com/embed/swYTq1mZbZI",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-56-handen-en-knieenstand-reeks-b",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 57: Handen- en knieënstand, reeks C",
+      "urlVideo": "https://www.youtube.com/embed/t_PxK0h7XNU",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-57-handen-en-knieenstand-reeks-c",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 58: Handen- en knieënstand, reeks D",
+      "urlVideo": "https://www.youtube.com/embed/aO5l60qCrTY",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-58-handen-en-knieenstand-reeks-d",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 59: Handen- en knieënstand, reeks E",
+      "urlVideo": "https://www.youtube.com/embed/xu7f8bu0hZ8",
+      "tags": "postoperatief, steunen, abductie, onderhoudsfase",
+      "slug": "oefening-59-handen-en-knieenstand-reeks-e",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "onderhoudsfase", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 60: Handen- en knieënstand, reeks F",
+      "urlVideo": "https://www.youtube.com/embed/TMM5w3Ux7AI",
+      "tags": "postoperatief, steunen, abductie, onderhoudsfase",
+      "slug": "oefening-60-handen-en-knieenstand-reeks-f",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "onderhoudsfase", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 61: Heupflexie in handen- en knieënstand",
+      "urlVideo": "https://www.youtube.com/embed/-ZQnSH3jJwQ",
+      "tags": "onderhoudsfase",
+      "slug": "oefening-61-heupflexie-in-handen-en-knieenstand",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 62: Heupflexie gekruist in handen- en knieënstand",
+      "urlVideo": "https://www.youtube.com/embed/CS4-xIrIt6s",
+      "tags": "onderhoudsfase",
+      "slug": "oefening-62-heupflexie-gekruist-in-handen-en-knieenstand",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 63: Heupextensie in handen- en knieënstand, gestrekte knie ",
+      "urlVideo": "https://www.youtube.com/embed/_7Md0i5xhwI",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-63-heupextensie-in-handen-en-knieenstand-gestrekte-knie",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 64: Knieflexie vanuit heupextensie in handen- en knieënstand",
+      "urlVideo": "https://www.youtube.com/embed/68W5cl6nKPo",
+      "tags": "onderhoudsfase",
+      "slug": "oefening-64-knieflexie-vanuit-heupextensie-in-handen-en-knieenstand",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 65: Heupabductie in handen- en knieënstand, geplooide knie ",
+      "urlVideo": "https://www.youtube.com/embed/cDTr9JWGPbQ",
+      "tags": "onderhoudsfase, postoperatief, steunen, abductie",
+      "slug": "oefening-65-heupabductie-in-handen-en-knieenstand-geplooide-knie",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "onderhoudsfase", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 66: Heupabductie in handen- en knieënstand, gestrekte knie  ",
+      "urlVideo": "https://www.youtube.com/embed/3tRcalUTYtk",
+      "tags": "onderhoudsfase, postoperatief, steunen, abductie",
+      "slug": "oefening-66-heupabductie-in-handen-en-knieenstand-gestrekte-knie",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "onderhoudsfase", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 67: Circumductie in handen- en knieënstand, gestrekte knie ",
+      "urlVideo": "https://www.youtube.com/embed/WT9yEWxR7TQ",
+      "tags": "onderhoudsfase, postoperatief, steunen, abductie",
+      "slug": "oefening-67-circumductie-in-handen-en-knieenstand-gestrekte-knie",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "onderhoudsfase", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 68: Achterwaartse kick, geplooide knie ",
+      "urlVideo": "https://www.youtube.com/embed/Tny347CV4pI",
+      "tags": "onderhoudsfase",
+      "slug": "oefening-68-achterwaartse-kick-geplooide-knie",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 69: Achterwaartse kick, gestrekte knie",
+      "urlVideo": "https://www.youtube.com/embed/VB6poK8-pb4",
+      "tags": "onderhoudsfase",
+      "slug": "oefening-69-achterwaartse-kick-gestrekte-knie",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 70: Van handen- en knieënstand naar stand",
+      "urlVideo": "https://www.youtube.com/embed/-d2MJSxZF9g",
+      "tags": "onderhoudsfase, preoperatief",
+      "slug": "oefening-70-van-handen-en-knieenstand-naar-stand",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase", "preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 71: Tenenstand in stand",
+      "urlVideo": "https://www.youtube.com/embed/PbUzeXnaTdM",
+      "tags": "postoperatief, steunen, abductie, geen abductie",
+      "slug": "oefening-71-tenenstand-in-stand",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "geen abductie", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 72: Tenenstand op trap",
+      "urlVideo": "https://www.youtube.com/embed/vtTIxP3480E",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-72-tenenstand-op-trap",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 73: Excentrische dorsiflexie op trap",
+      "urlVideo": "https://www.youtube.com/embed/G0-UQp7CG1I",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-73-excentrische-dorsiflexie-op-traf",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 74: Hielenstand in stand",
+      "urlVideo": "https://www.youtube.com/embed/W5H9gSmuIjc",
+      "tags": "postoperatief, steunen, abductie, geen abductie",
+      "slug": "oefening-74-hielenstand-in-stand",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "geen abductie", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 75: Step tikken met één voet",
+      "urlVideo": "https://www.youtube.com/embed/WPfrZ5ZXDV4",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-75-step-tikken-met-een-voet",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 76: Step zijwaarts tikken met één voet ",
+      "urlVideo": "https://www.youtube.com/embed/13eEjLuixJw",
+      "tags": "postoperatief, steunen, abductie, onderhoudsfase",
+      "slug": "oefening-76-step-zijwaarts-tikken-met-een-voet",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "onderhoudsfase", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 77: Step tikken vanuit spreidstand",
+      "urlVideo": "https://www.youtube.com/embed/sEsEzglBN6s",
+      "tags": "postoperatief, steunen, abductie, onderhoudsfase",
+      "slug": "oefening-77-step-tikken-vanuit-spreidstand",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "onderhoudsfase", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 78: Step opstappen met één voet",
+      "urlVideo": "https://www.youtube.com/embed/mCh9usv9x8M",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-78-step-opstappen-met-een-voet",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 79: Step zijwaarts opstappen met één voet",
+      "urlVideo": "https://www.youtube.com/embed/c-gnepO66yA",
+      "tags": "postoperatief, steunen, abductie, onderhoudsfase",
+      "slug": "oefening-79-step-zijwaarts-opstappen-met-een-voet",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "onderhoudsfase", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 80: Step opstappen met beide voeten",
+      "urlVideo": "https://www.youtube.com/embed/-UhB05jPQZ8",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-80-step-opstappen-met-beide-voeten",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 81: Step opstappen met beide voeten vanuit spreidstand",
+      "urlVideo": "https://www.youtube.com/embed/bW97DHel2Y0",
+      "tags": "postoperatief, steunen, abductie, onderhoudsfase",
+      "slug": "oefening-81-step-opstappen-met-beide-voeten-vanuit-spreidstand",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "onderhoudsfase", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 82: Step opstappen met high knee",
+      "urlVideo": "https://www.youtube.com/embed/9kRdHgw1ijk",
+      "tags": "onderhoudsfase",
+      "slug": "oefening-82-step-opstappen-met-high-knee",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 83: Knie heffen unilateraal in stand",
+      "urlVideo": "https://www.youtube.com/embed/Ot3MqMLUX5M",
+      "tags": "postoperatief, steunen, abductie, geen abductie",
+      "slug": "oefening-83-knie-heffen-unilateraal-in-stand",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "geen abductie", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 84: Knieën heffen alternerend in stand",
+      "urlVideo": "https://www.youtube.com/embed/ab99bPdJjQg",
+      "tags": "postoperatief, steunen, abductie, geen abductie",
+      "slug": "oefening-84-knieen-heffen-alternerend-in-stand",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "geen abductie", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 85: Heupflexie in stand, gestrekte knie",
+      "urlVideo": "https://www.youtube.com/embed/bsSFf298bi4",
+      "tags": "postoperatief, steunen, abductie, geen abductie",
+      "slug": "oefening-85-heupflexie-in-stand-gestrekte-knie",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "geen abductie", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 86: Heupextensie in stand, gestrekte knie",
+      "urlVideo": "https://www.youtube.com/embed/TiggO9vdmxI",
+      "tags": "postoperatief, steunen, abductie, geen abductie",
+      "slug": "oefening-86-heupextensie-in-stand-gestrekte-knie",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "geen abductie", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 87: Isometrische heupabductie met bal in stand",
+      "urlVideo": "https://www.youtube.com/embed/RjM1lzCQavQ",
+      "tags": "postoperatief, steunen, abductie, onderhoudsfase",
+      "slug": "oefening-87-isometrische-heupabductie-met-bal-in-stand",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "onderhoudsfase", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 88: Heupabductie in stand",
+      "urlVideo": "https://www.youtube.com/embed/VB7DfuvMSx8",
+      "tags": "postoperatief, steunen, abductie, onderhoudsfase",
+      "slug": "oefening-88-heupabductie-in-stand",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "onderhoudsfase", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 89: Voorwaartse en achterwaartse uitvalspassen",
+      "urlVideo": "https://www.youtube.com/embed/2oYDcCoPKR4",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-89-voorwaartse-en-achterwaartse-uitvalspassen",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 90: Zijwaartse uitvalspassen",
+      "urlVideo": "https://www.youtube.com/embed/Ln4iCFWdicI",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-90-zijwaartse-uitvalspassen",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 91: Sit to stand",
+      "urlVideo": "https://www.youtube.com/embed/6DNF81X5Mm8",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-91-sit-to-stand",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 92: Muurzitten",
+      "urlVideo": "https://www.youtube.com/embed/9Swg5kRpKFc",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-92-muurzitten",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 93: Squat",
+      "urlVideo": "https://www.youtube.com/embed/UEdN_QY1koY",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-93-squat",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 94: Squat met bobathbal tegen muur",
+      "urlVideo": "https://www.youtube.com/embed/CsWhqaHRDFc",
+      "tags": "postoperatief, steunen, abductie, geen abductie, onderhoudsfase",
+      "slug": "oefening-94-squat-met-bobathbal-tegen-muur",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 95: Voorwaartse lunge",
+      "urlVideo": "https://www.youtube.com/embed/e6h201MuPCY",
+      "tags": "onderhoudsfase",
+      "slug": "oefening-95-voorwaartse-lunge",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 96: Achterwaartse lunge",
+      "urlVideo": "https://www.youtube.com/embed/WFjhWnRVliA",
+      "tags": "onderhoudsfase",
+      "slug": "oefening-96-achterwaartse-lunge",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 97: Zijwaartse lunge",
+      "urlVideo": "https://www.youtube.com/embed/59GLksuk7b4",
+      "tags": "onderhoudsfase",
+      "slug": "oefening-97-zijwaartse-lunge",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 98: Walking lunges",
+      "urlVideo": "https://www.youtube.com/embed/2RCRFaPDLTc",
+      "tags": "onderhoudsfase",
+      "slug": "oefening-98-walking-lunges",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 99: Monster walk",
+      "urlVideo": "https://www.youtube.com/embed/IdmkE7ZXC44",
+      "tags": "onderhoudsfase",
+      "slug": "oefening-99-monster-walk",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 100: Lateral squat walk",
+      "urlVideo": "https://www.youtube.com/embed/tuQ_Dj-mpWU",
+      "tags": "onderhoudsfase",
+      "slug": "oefening-100-lateral-squat-walk",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 101: Hoofd heffen in ruglig",
+      "urlVideo": "https://www.youtube.com/embed/JyDOWtHTrxM",
+      "tags": "direct postoperatief, postoperatief, abductie, geen abductie, steunen, niet steunen, onderhoudsfase",
+      "slug": "oefening-101-hoofd-heffen-in-ruglig",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 102: Hoofd en schouders heffen in ruglig",
+      "urlVideo": "https://www.youtube.com/embed/6LTT6o9dIsY",
+      "tags": "postoperatief, abductie, geen abductie, steunen, niet steunen, direct postoperatief, onderhoudsfase",
+      "slug": "oefening-102-hoofd-en-schouders-heffen-in-ruglig",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 103: Zijwaarts reiken in ruglig",
+      "urlVideo": "https://www.youtube.com/embed/idFHXhq_Bbs",
+      "tags": "postoperatief, abductie, geen abductie, steunen, niet steunen, direct postoperatief, onderhoudsfase",
+      "slug": "oefening-103-zijwaarts-reiken-in-ruglig",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 104: Heel touches in ruglig",
+      "urlVideo": "https://www.youtube.com/embed/bMVDmt8SonQ",
+      "tags": "postoperatief, abductie, geen abductie, steunen, niet steunen, direct postoperatief, onderhoudsfase",
+      "slug": "oefening-104-heel-touches-in-ruglig",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 105: Benen alternerend zakken in ruglig",
+      "urlVideo": "https://www.youtube.com/embed/iWIcOgrhpg8",
+      "tags": "onderhoudsfase, steunen, niet steunen, geen abductie, postoperatief, abductie",
+      "slug": "oefening-105-benen-alternerend-zakken-in-ruglig",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 106: Superman",
+      "urlVideo": "https://www.youtube.com/embed/9-nfZivwoqM",
+      "tags": "steunen, niet steunen, abductie, geen abductie, onderhoudsfase, postoperatief",
+      "slug": "oefening-106-superman",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "niet steunen",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 107: Planking",
+      "urlVideo": "https://www.youtube.com/embed/32DUMCurXMg",
+      "tags": "onderhoudsfase, steunen, abductie, geen abductie",
+      "slug": "oefening-107-planking",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "geen abductie", "onderhoudsfase", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 108: Iliopsoas stretch in schredestand",
+      "urlVideo": "https://www.youtube.com/embed/UeJE-RrXldk",
+      "tags": "preoperatief, onderhoudsfase",
+      "slug": "oefening-108-iliopsoas-stretch-in-schredestand",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase", "preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 109: Iliopsoas stretch in schredestand op verhoogje",
+      "urlVideo": "https://www.youtube.com/embed/tpDpPg2W5n8",
+      "tags": "preoperatief, onderhoudsfase",
+      "slug": "oefening-109-iliopsoas-stretch-in-schredestand-op-verhoogje",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase", "preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 110: Quadriceps stretch in stand",
+      "urlVideo": "https://www.youtube.com/embed/aaJMF-hUg_A",
+      "tags": "preoperatief, onderhoudsfase, steunen, abductie, geen abductie, postoperatief",
+      "slug": "oefening-110-quadriceps-stretch-in-stand",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "preoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 111: Hamstrings stretch aan tafel in stand",
+      "urlVideo": "https://www.youtube.com/embed/L8gjHl2Jwbo",
+      "tags": "preoperatief, onderhoudsfase",
+      "slug": "oefening-111-hamstrings-stretch-aan-tafel-in-stand",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase", "preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 112: Hamstrings stretch in stand",
+      "urlVideo": "https://www.youtube.com/embed/YWJUzF_Iyq4",
+      "tags": "preoperatief, onderhoudsfase",
+      "slug": "oefening-112-hamstrings-stretch-in-stand",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase", "preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 113: Hamstrings stretch met verhoogje in stand",
+      "urlVideo": "https://www.youtube.com/embed/NQdCFhfyXqs",
+      "tags": "onderhoudsfase, preoperatief",
+      "slug": "oefening-113-hamstrings-stretch-met-verhoogje-in-stand",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase", "preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 114: Hamstrings stretch in ruglig",
+      "urlVideo": "https://www.youtube.com/embed/dxkfud5TtwM",
+      "tags": "onderhoudsfase, preoperatief",
+      "slug": "oefening-114-hamstrings-stretch-in-ruglig",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase", "preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 116: Heupadductoren stretch in knieënstand",
+      "urlVideo": "https://www.youtube.com/embed/tvikszEuGWs",
+      "tags": "onderhoudsfase, preoperatief",
+      "slug": "oefening-116-heupadductoren-stretch-in-knieenstand",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase", "preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 117: Tensor fascia latae stretch in stand",
+      "urlVideo": "https://www.youtube.com/embed/pRqRW12Yr4U",
+      "tags": "preoperatief, onderhoudsfase",
+      "slug": "oefening-117-tensor-fascia-latae-stretch-in-stand",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase", "preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 118: Gastrocnemius stretch in stand",
+      "urlVideo": "https://www.youtube.com/embed/1TcgfcPBSIY",
+      "tags": "preoperatief, onderhoudsfase, abductie, geen abductie, steunen, postoperatief",
+      "slug": "oefening-118-gastrocnemius-stretch-in-stand",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "preoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 119: Soleus stretch in stand",
+      "urlVideo": "https://www.youtube.com/embed/P0EjYlMNtmI",
+      "tags": "preoperatief, onderhoudsfase, abductie, geen abductie, steunen, postoperatief",
+      "slug": "oefening-119-soleus-stretch-in-stand",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "preoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 120: Triceps surae stretch op verhoogje",
+      "urlVideo": "https://www.youtube.com/embed/6MRm43JFVL8",
+      "tags": "preoperatief, onderhoudsfase, steunen, abductie, geen abductie, postoperatief",
+      "slug": "oefening-120-triceps-surae-stretch-op-verhoogje",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "preoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 121: Stappen en hoofd draaien",
+      "urlVideo": "https://www.youtube.com/embed/QjAuOIj45Yo",
+      "tags": "steunen, abductie, geen abductie, onderhoudsfase, postoperatief",
+      "slug": "oefening-121-stappen-en-hoofd-draaien",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 122: Op tenen stappen",
+      "urlVideo": "https://www.youtube.com/embed/er8nPCh_cE8",
+      "tags": "steunen, abductie, geen abductie, onderhoudsfase, postoperatief",
+      "slug": "oefening-122-op-tenen-stappen",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 123: Op hielen stappen",
+      "urlVideo": "https://www.youtube.com/embed/2jMK0SXgRN4",
+      "tags": "steunen, abductie, geen abductie, onderhoudsfase, postoperatief",
+      "slug": "oefening-123-op-hielen-stappen",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 124: Zijwaarts stappen",
+      "urlVideo": "https://www.youtube.com/embed/RO7jqwTDM-Y",
+      "tags": "steunen, abductie, onderhoudsfase, postoperatief",
+      "slug": "oefening-124-zijwaarts-stappen",
+      "__typename": "Exercise",
+      "tagArray": ["abductie", "onderhoudsfase", "postoperatief", "steunen"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 125: Achterwaarts stappen",
+      "urlVideo": "https://www.youtube.com/embed/41xkX54lsAU",
+      "tags": "steunen, abductie, geen abductie, onderhoudsfase, postoperatief",
+      "slug": "oefening-125-achterwaarts-stappen",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 126: Tandemstappen",
+      "urlVideo": "https://www.youtube.com/embed/XdFHIVcs5og",
+      "tags": "steunen, abductie, geen abductie, onderhoudsfase, postoperatief",
+      "slug": "oefening-126-tandemstappen",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 127: Over obstakel stappen",
+      "urlVideo": "https://www.youtube.com/embed/0_hKWrHsqdc",
+      "tags": "steunen, abductie, geen abductie, onderhoudsfase, postoperatief",
+      "slug": "oefening-127-over-obstakel-stappen",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 128: Uitvalspas op airexmatje",
+      "urlVideo": "https://www.youtube.com/embed/pi-fYFovipo",
+      "tags": "steunen, abductie, geen abductie, onderhoudsfase, postoperatief",
+      "slug": "oefening-128-uitvalspas-op-airexmatje-1",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 129: Uitvalspassen vanop airexmatje",
+      "urlVideo": "https://www.youtube.com/embed/BJR2yJFAxzY",
+      "tags": "steunen, abductie, geen abductie, onderhoudsfase, postoperatief",
+      "slug": "oefening-129-uitvalspassen-vanop-airexmatje",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "geen abductie",
+        "onderhoudsfase",
+        "postoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 130: Onbelast stappen met twee krukken",
+      "urlVideo": "https://www.youtube.com/embed/pGd5sR576Cc",
+      "tags": "preoperatief",
+      "slug": "oefening-130-onbelast-stappen-met-twee-krukken",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 131: Gedeeltelijk belast stappen met twee krukken",
+      "urlVideo": "https://www.youtube.com/embed/ub6JzLcza7A",
+      "tags": "preoperatief",
+      "slug": "oefening-131-gedeeltelijk-belast-stappen-met-twee-krukken",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 132: Gedeeltelijk belast stappen met één kruk",
+      "urlVideo": "https://www.youtube.com/embed/q6mRxnZcLW0",
+      "tags": "preoperatief",
+      "slug": "oefening-132-gedeeltelijk-belast-stappen-met-een-kruk",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 133: Trap op met krukken",
+      "urlVideo": "https://www.youtube.com/embed/ATlwRDqtIBs",
+      "tags": "preoperatief",
+      "slug": "oefening-133-trap-op-met-krukken",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 134: Trap af met krukken",
+      "urlVideo": "https://www.youtube.com/embed/0CM9sTqb8FA",
+      "tags": "preoperatief",
+      "slug": "oefening-134-trap-af-met-krukken",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 135: Op de hometrainer",
+      "urlVideo": "https://www.youtube.com/embed/69muHnEWJck",
+      "tags": "preoperatief",
+      "slug": "oefening-135-op-de-hometrainer",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 136: Af de hometrainer",
+      "urlVideo": "https://www.youtube.com/embed/R_0oj0SszS8",
+      "tags": "preoperatief",
+      "slug": "oefening-136-af-de-hometrainer",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 137: In de auto stappen",
+      "urlVideo": "https://www.youtube.com/embed/raxZWjED8nE",
+      "tags": "preoperatief",
+      "slug": "oefening-137-in-de-auto-stappen",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 138: Uit de auto stappen",
+      "urlVideo": "https://www.youtube.com/embed/XZ-Ojgop06E",
+      "tags": "preoperatief",
+      "slug": "oefening-138-uit-de-auto-stappen",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 140: Sit to stand vanop stoel",
+      "urlVideo": "https://www.youtube.com/embed/5SKfPU1Q4yw",
+      "tags": "preoperatief",
+      "slug": "oefening-140-sit-to-stand-vanop-stoel",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 141: Draaien in stand aan aanrecht",
+      "urlVideo": "https://www.youtube.com/embed/jgt2cewRxEE",
+      "tags": "preoperatief",
+      "slug": "oefening-141-draaien-in-stand-aan-aanrecht",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 142: In bed gaan",
+      "urlVideo": "https://www.youtube.com/embed/uVU4Aj3q5XU",
+      "tags": "preoperatief",
+      "slug": "oefening-142-in-bed-gaan",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 143: Uit bed gaan",
+      "urlVideo": "https://www.youtube.com/embed/D51bXOXwGJA",
+      "tags": "preoperatief",
+      "slug": "oefening-143-uit-bed-gaan",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 144: Draaien in bed",
+      "urlVideo": "https://www.youtube.com/embed/C5jvhIpqrdI",
+      "tags": "preoperatief",
+      "slug": "oefening-144-draaien-in-bed",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 145: In bad gaan met badplank",
+      "urlVideo": "https://www.youtube.com/embed/QdFR3OFSAHk",
+      "tags": "preoperatief",
+      "slug": "oefening-145-in-bad-gaan-met-badplank",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 146: Uit bad gaan met badplank",
+      "urlVideo": "https://www.youtube.com/embed/5pDmoAb6NWQ",
+      "tags": "preoperatief",
+      "slug": "oefening-146-uit-bad-gaan-met-badplank",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 147: Op fiets stappen",
+      "urlVideo": "https://www.youtube.com/embed/6VoplyK5jYE",
+      "tags": "preoperatief",
+      "slug": "oefening-147-op-fiets-stappen",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 148: Stappen met looprek",
+      "urlVideo": "https://www.youtube.com/embed/NCX1cM9RO-E",
+      "tags": "preoperatief",
+      "slug": "oefening-148-stappen-met-looprek",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 149: Over voorwerp grond tikken",
+      "urlVideo": "https://www.youtube.com/embed/jhvN9L4n3To",
+      "tags": "preoperatief",
+      "slug": "oefening-149-over-voorwerp-grond-tikken",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 150: Over voorwerp stappen",
+      "urlVideo": "https://www.youtube.com/embed/5F8_bYTs4Do",
+      "tags": "preoperatief",
+      "slug": "oefening-150-over-voorwerp-stappen",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 151: Al stappend over voorwerp stappen",
+      "urlVideo": "https://www.youtube.com/embed/Sv2ddrynXRM",
+      "tags": "preoperatief",
+      "slug": "oefening-151-al-stappend-over-voorwerp-stappen",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 152: Weight shift in stand",
+      "urlVideo": "https://www.youtube.com/embed/FIKWh9yK5vc",
+      "tags": "preoperatief",
+      "slug": "oefening-152-weight-shift-in-stand",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 153: Weight shift in stand met reiken",
+      "urlVideo": "https://www.youtube.com/embed/JgfE7Cw7MVo",
+      "tags": "preoperatief",
+      "slug": "oefening-153-weight-shift-in-stand-met-reiken",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 154: Progressie evenwichtstraining",
+      "urlVideo": "https://www.youtube.com/embed/Wufqe6CHPOk",
+      "tags": "onderhoudsfase, preoperatief",
+      "slug": "oefening-154-progressie-evenwichtstraining",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase", "preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 155: Hydro fietsen",
+      "urlVideo": "https://www.youtube.com/embed/wQZLd1Crb8s",
+      "tags": "hydrotherapie",
+      "slug": "oefening-155-hydro-fietsen",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 156: Hydro schaarbeweging",
+      "urlVideo": "https://www.youtube.com/embed/as98QXtyboc",
+      "tags": "hydrotherapie",
+      "slug": "oefening-156-hydro-schaarbeweging",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 157: Hydro schaarbeweging opwaarts",
+      "urlVideo": "https://www.youtube.com/embed/ptl7n0yXSw0",
+      "tags": "hydrotherapie",
+      "slug": "oefening-157-hydro-schaarbeweging-opwaarts",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 158: Hydro been voorwaarts en zijwaarts brengen",
+      "urlVideo": "https://www.youtube.com/embed/WbvF4XwAMIo",
+      "tags": "hydrotherapie",
+      "slug": "oefening-158-hydro-been-voorwaarts-en-zijwaarts-brengen",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 159: Hydro stappen voorwaarts",
+      "urlVideo": "https://www.youtube.com/embed/LTgnCus35ZU",
+      "tags": "hydrotherapie",
+      "slug": "oefening-159-hydro-stappen-voorwaarts",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 160: Hydro stappen zijwaarts",
+      "urlVideo": "https://www.youtube.com/embed/hTMmN6_O2e0",
+      "tags": "hydrotherapie",
+      "slug": "oefening-160-hydro-stappen-zijwaarts",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 161: Hydro stappen achterwaarts",
+      "urlVideo": "https://www.youtube.com/embed/DdQdghHOGVY",
+      "tags": "hydrotherapie",
+      "slug": "oefening-161-hydro-stappen-achterwaarts",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 162: Hydro squat",
+      "urlVideo": "https://www.youtube.com/embed/PpvTLWYD9GA",
+      "tags": "hydrotherapie",
+      "slug": "oefening-162-hydro-squat",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 163: Hydro been buigen en strekken met voet op plankje",
+      "urlVideo": "https://www.youtube.com/embed/iwBQcQSlQeo",
+      "tags": "hydrotherapie",
+      "slug": "oefening-163-hydro-been-buigen-en-strekken-met-voet-op-plankje",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 164: Hydro trap op en af",
+      "urlVideo": "https://www.youtube.com/embed/-RxfjzbCUU8",
+      "tags": "hydrotherapie",
+      "slug": "oefening-164-hydro-trap-op-en-af",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 165: Hydro kuitspieroefeningen",
+      "urlVideo": "https://www.youtube.com/embed/wKWdBTO4pw8",
+      "tags": "hydrotherapie",
+      "slug": "oefening-165-hydro-kuitspieroefeningen",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 166: Hydro step up",
+      "urlVideo": "https://www.youtube.com/embed/ASQeGKKYLPQ",
+      "tags": "hydrotherapie",
+      "slug": "oefening-166-hydro-step-up",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 167: Hydro jumping jacks",
+      "urlVideo": "https://www.youtube.com/embed/iv6bm7xNE10",
+      "tags": "hydrotherapie",
+      "slug": "oefening-167-hydro-jumping-jacks",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 168: Hydro 1-2-3 oefening",
+      "urlVideo": "https://www.youtube.com/embed/YszHSLw0g2o",
+      "tags": "hydrotherapie",
+      "slug": "oefening-168-hydro-1-2-3-oefening",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 172: Hydro armen boksen",
+      "urlVideo": "https://www.youtube.com/embed/Ili97c-oWB0",
+      "tags": "hydrotherapie",
+      "slug": "oefening-172-hydro-armen-boksen",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 173: Hydro armen cirkels",
+      "urlVideo": "https://www.youtube.com/embed/o8M4K8W4l4c",
+      "tags": "hydrotherapie",
+      "slug": "oefening-173-hydro-armen-cirkels",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 174: Hydro armen roeien met poolnoodle",
+      "urlVideo": "https://www.youtube.com/embed/aC4NCoriloM",
+      "tags": "hydrotherapie",
+      "slug": "oefening-174-hydro-armen-roeien-met-poolnoodle",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 175: Hydro lunges",
+      "urlVideo": "https://www.youtube.com/embed/NeNig2br1Gc",
+      "tags": "hydrotherapie",
+      "slug": "oefening-175-hydro-lunges",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 176: Hydro unipodale squat",
+      "urlVideo": "https://www.youtube.com/embed/3iftIu7lWjI",
+      "tags": "hydrotherapie",
+      "slug": "oefening-176-hydro-unipodale-squat",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 177: Hydro schoolslag beenbeweging",
+      "urlVideo": "https://www.youtube.com/embed/jzFo2-iL0gI",
+      "tags": "hydrotherapie",
+      "slug": "oefening-177-hydro-schoolslag-beenbeweging",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 178: Abductiebrace aandoen",
+      "urlVideo": "https://www.youtube.com/embed/V-kt6A193Lk",
+      "tags": "preoperatief",
+      "slug": "oefening-178-abductiebrace-aandoen",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 179: Kousen aandoen met hulpmiddelen",
+      "urlVideo": "https://www.youtube.com/embed/RFOq_dNx0j0",
+      "tags": "preoperatief",
+      "slug": "oefening-179-kousen-aandoen-met-hulpmiddelen",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 180: Transfer van rolstoel naar bed",
+      "urlVideo": "https://www.youtube.com/embed/IA97PDbjmnU",
+      "tags": "preoperatief",
+      "slug": "oefening-180-transfer-van-rolstoel-naar-bed",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 120A: Triceps surae stretch met handdoek",
+      "urlVideo": "https://www.youtube.com/embed/",
+      "tags": "preoperatief, direct postoperatief, postoperatief, steunen, abductie, niet steunen, geen abductie",
+      "slug": "oefening-120-a-triceps-surae-stretch-met-handdoek-1",
+      "__typename": "Exercise",
+      "tagArray": [
+        "abductie",
+        "direct postoperatief",
+        "geen abductie",
+        "niet steunen",
+        "postoperatief",
+        "preoperatief",
+        "steunen"
+      ]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 115: Heupadductoren stretch in stand",
+      "urlVideo": "https://www.youtube.com/embed/R7VHJU0B3-g",
+      "tags": "preoperatief, onderhoudsfase",
+      "slug": "oefening-115-heupadductoren-stretch-in-stand",
+      "__typename": "Exercise",
+      "tagArray": ["onderhoudsfase", "preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 139: Voorwerp oprapen met steun",
+      "urlVideo": "https://www.youtube.com/embed/UA7emL_yQZA",
+      "tags": "preoperatief",
+      "slug": "oefening-139-voorwerp-oprapen-met-steun",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 169: Hydro cirkels draaien met benen",
+      "urlVideo": "https://www.youtube.com/embed/iCFjfwoQXsM",
+      "tags": "hydrotherapie",
+      "slug": "oefening-169-hydro-cirkels-draaien-met-benen",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 170: Hydro hamstrings curl",
+      "urlVideo": "https://www.youtube.com/embed/gJB3j9kyeu0",
+      "tags": "hydrotherapie",
+      "slug": "oefening-170-hydro-hamstrings-curl",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 171: Hydro skipping met hoge knieën",
+      "urlVideo": "https://www.youtube.com/embed/YS43r7NK2yo",
+      "tags": "hydrotherapie",
+      "slug": "oefening-171-hydro-skipping-met-hoge-knieen",
+      "__typename": "Exercise",
+      "tagArray": ["hydrotherapie"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 181: Transfer van bed naar rolstoel",
+      "urlVideo": "https://www.youtube.com/embed/Ys9ffDCd7IQ",
+      "tags": "preoperatief",
+      "slug": "oefening-181-transfer-van-bed-naar-rolstoel",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  },
+  {
+    "attributes": {
+      "title": "Oefening 182: Naar WC gaan",
+      "urlVideo": "https://www.youtube.com/embed/sbh4YE1400k",
+      "tags": "preoperatief",
+      "slug": "oefening-182-naar-wc-gaan",
+      "__typename": "Exercise",
+      "tagArray": ["preoperatief"]
+    },
+    "__typename": "ExerciseEntity"
+  }
+]

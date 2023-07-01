@@ -4,29 +4,32 @@ import Exercise from "../components/Exercise";
 import { useState } from "react";
 import Head from "next/head";
 
+import exercises_JSON from "../public/exercises.json";
+
 export default function Exercieses() {
   //FILTER STATE
   const [filter, setFilter] = useState([]);
 
   //FETCH DATA
-  const [results] = useQuery({ query: EXERCISE_QUERY });
-  const { data, fetching, error } = results;
+  // const [results] = useQuery({ query: EXERCISE_QUERY });
+  // const { data, fetching, error } = results;
 
-  //CHECK DATA
-  if (fetching)
-    return (
-      <p className="mx-auto w-5/6 pt-5 mb-3 text-2xl font-roboto text-uz-grey">
-        Loading ...
-      </p>
-    );
-  if (error)
-    return (
-      <p className="mx-auto w-5/6 pt-5 mb-3 text-2xl font-roboto text-uz-grey">
-        Error: {error.message}
-      </p>
-    );
+  // //CHECK DATA
+  // if (fetching)
+  //   return (
+  //     <p className="mx-auto w-5/6 pt-5 mb-3 text-2xl font-roboto text-uz-grey">
+  //       Loading ...
+  //     </p>
+  //   );
+  // if (error)
+  //   return (
+  //     <p className="mx-auto w-5/6 pt-5 mb-3 text-2xl font-roboto text-uz-grey">
+  //       Error: {error.message}
+  //     </p>
+  //   );
 
-  const exercises = data.exercises.data;
+  // const exercises = data.exercises.data;
+  const exercises = exercises_JSON;
   // console.log(exercises);
   // SORT BY EXERCISE NUMBER
   exercises.sort(
